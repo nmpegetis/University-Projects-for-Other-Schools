@@ -1,0 +1,312 @@
+/*************************************************************************
+Arxeio ylopoihshs	: main.c
+Syggrafeas			: D.Mhlios
+Skopos				: Paradeigma gia Dokimh AVL Dentro
+**************************************************************************/
+
+#include <stdio.h>
+#include "AVL_pointer.h"
+#include "../../TS/TStoixeioyTree.h"
+
+void print_options(void);
+void episkepsi(typos_deikti tree);
+typos_deikti riza(typos_deikti tree);
+void endodiataksi(typos_deikti tree);
+void prodiataksi(typos_deikti tree);
+void metadiataksi(typos_deikti tree);
+
+int main(void)
+{   int option, error, found,ypsilotero,out_err,created;
+	typos_deikti tree, cur;
+	TStoixeioyTree x, x1;
+	created=0;
+	cur=NULL;
+	
+	
+	printf("\n\nH arxikh timh toy kersora einai NULL!\n", cur);
+	do{ error=0;
+		print_options();
+		scanf("%d", &option);
+		switch(option)
+       {case 1:
+			AVLTree_dimiourgia(&tree);
+			created=1;
+		    printf("\nTo dentro dimiourgithike!\n");
+			break;
+		case 2:
+            if(!created)
+             { printf("\nDen uparxei AVL dentro gia na eisaxthei stoixeio !\n");  
+               break;          
+              }
+            printf("Dwse ena stoixeio gia eisagwgh sto dentro: ");
+            out_err=TStree_readValue(stdin,&x);
+            if(!out_err)
+            {  printf("\n error stin readValue !\n"); 
+               break;                
+             }
+            AVLTree_eisagogi(&tree, x,&ypsilotero, &error);
+            if(error)
+	           printf("\nError! Adynamia malloc 'h to stoixeio yparxei hdh!\n");
+            else
+	           printf("\nTo stoixeio eishx8h!\n");
+            break;
+		case 3:
+            if(!created)
+             { printf("\nDen uparxei AVL dentro  gia na diagrafei stoixeio !\n");  
+               break;          
+             }
+            printf("Dwse ena stoixeio gia diagrafh apo to dentro: ");
+            out_err=TStree_readValue(stdin,&x);
+            if(!out_err)
+              {  printf("\n error stin readValue !\n"); 
+                 break;                
+               }
+            AVLTree_diagrafi(&tree, x,&ypsilotero, &error);
+            if(error)
+	           printf("\nError! To stoixeio den yparxei sto dentro!\n");
+            else
+	           printf("\nTo stoixeio diagrafhke!\n");
+            break;
+		case 4:
+            if(!created)
+             { printf("\nDen uparxei AVL dentro gia na elegxthei an einai keno !\n");  
+               break;          
+             }
+            if(AVLTree_keno(tree))
+	           printf("\nTo dentro einai keno!\n");
+            else
+	           printf("\nTo dentro DEN einai keno!\n");
+            break;
+		case 5:
+            if(!created)
+             { printf("\nDen uparxei AVL dentro  gia na anazithithei stoixeio tou !\n");  
+               break;          
+             }
+            printf("Dwse ena stoixeio gia anazhthsh sto dentro: ");
+            out_err=TStree_readValue(stdin,&x);
+            if(!out_err)
+             { printf("\n error stin readValue !\n"); 
+               break;                
+              }
+            AVLTree_anazitisi(tree, x, &cur, &found);
+            if(found)
+	          printf("\nTo stoixeio bre8hke!\n");
+            else
+			  printf("\nTo stoixeio DEN bre8hke!\n");
+		    break;
+		case 6:
+            if(!created)
+             { printf("\nDen uparxei AVL dentro gia na epistrafei to periexomeno enos komboy tou !\n");  
+               break;          
+             }
+            AVLTree_periexomeno(cur, &x,&error);
+            if(error)
+  	          { printf("\nError! O deiktis einai NULL!\n"); } 
+            else  
+              { printf("\nTo periexomeno toy komboy einai  ");
+                out_err=TStree_writeValue(stdout,x); 
+                if(out_err <0)
+                {   printf("\n error stin writeValue !\n");
+                    break;                 
+                 }
+               } 
+            break;
+		case 7:
+             if(!created)
+             { printf("\nDen uparxei AVL dentro gia na allaxthei to periexomeno enos komboy tou !\n");  
+               break;          
+              }
+             printf("Dwse to stoixeio poy 8es na allaksei: ");
+             out_err=TStree_readValue(stdin,&x);
+             if(!out_err)
+              { printf("\n error stin readValue !\n"); 
+                break;                
+              }
+             printf("Dwse to stoixeio poy 8es na eisageis sth thesh tou  ");
+             out_err=TStree_writeValue(stdout,x); 
+             if(out_err <0)
+              { printf("\n error stin writeValue !\n");
+                break;                 
+              }
+             out_err=TStree_readValue(stdin,&x1);
+             if(!out_err)
+              { printf("\n error stin readValue !\n"); 
+                break;                
+               }
+             AVLTree_allagi(&tree, x, x1, &error);
+             if(error)
+	           { printf("\nError! Sthn eisagwgh 'h diagrafh twn stoixeiwn.\
+                 Elegkste ta stoixeia kai to dentro kai 3anaprospa8hste!\n");
+                 } 
+             else
+               { printf("\nH allagh egine!\n");
+      	         cur=NULL;
+                 }
+             break;
+		case 8:
+             if(!created)
+             { printf("\nDen uparxei AVL dentro gia na metakinithei o dromeas sto aristero paidi tou trexonta!\n");  
+               break;          
+              }
+             AVLTree_apaidi(cur,&cur, &error);
+             if(error)
+	           printf("\nError! O deiktis einai NULL!\n");
+             else
+	           printf("\nO deiktis deixnei sto aristero paidi!\n");
+             break;
+		case 9:
+             if(!created)
+             { printf("\nDen uparxei AVL dentro gia na metakinithei o dromeas sto deksi paidi tou trexonta !\n");  
+               break;          
+             }
+             AVLTree_dpaidi(cur,&cur,&error);
+             if(error)
+			   printf("\nError! O deiktis einai NULL!\n");
+             else
+	           printf("\nO deiktis deixnei sto deksi paidi!\n");
+             break;
+		case 10:
+            if(!created)
+             { printf("\nDen uparxei AVL dentro gia na metakinithei o dromeas ston patera  tou trexonta !\n");  
+               break;          
+              }
+            AVLTree_pateras(tree, &cur, cur, &error);
+            if(error)
+	           printf("\nError! O deiktis den anhkei sto dentro 'h deixnei sth riza!\n");
+            else
+	           printf("\nO deiktis deixnei ston patera!\n");
+            break;
+        case 11:
+            if(!created)
+             { printf("\nDen uparxei AVL dentro gia na metakinithei o dromeas sti riza  tou dentrou !\n");  
+               break;          
+              }
+            cur=riza(tree);  
+            printf("o deiktis deixnei stin riza!\n"); 
+            break;                    
+		case 12:
+            if(!created)
+             { printf("\nDen uparxei AVL dentro gia na katastrafei !\n");  
+               break;          
+              }
+            AVLTree_katastrofi(&tree);
+            created=0;
+            printf("\nTo dentro katastrafike!\n");
+            break;
+		case 13:
+            if(!created)
+            { printf("\nDen uparxei AVL dentro gia na ginei endodiataksi !\n");  
+              break;          
+             }
+            printf("\nEndodiataksi!\n");
+            endodiataksi(tree);
+            break;
+		case 14:
+             if(!created)
+             { printf("\nDen uparxei AVL dentro gia na ginei prodiataksi !\n");  
+               break;          
+              }
+             printf("\nProdiataksi!\n");
+             prodiataksi(tree);
+             break;
+		case 15:
+             if(!created)
+             { printf("\nDen uparxei AVL dentro gia na ginei metadiataksi !\n");  
+               break;          
+             }
+             printf("\nMetadiataksi!\n");
+             metadiataksi(tree);
+             break;
+		}
+	}
+	while(option);
+	return 0;
+}
+
+void print_options(void)
+{   printf("\n1. Dhmioyrgia dentroy\n\
+2. Eisagwgh stoixeioy sto dentro\n\
+3. Diagrafh stoixeioy apo to dentro\n\
+4. Elegxos gia keno dentro\n\
+5. Anazhthsh stoixeioy sto dentro\n\
+6. Epistrofh periexomenoy enos komboy\n\
+7. Allagh toy periexomenoy enos komboy\n\
+8. Metakinhsh toy dromea sto aristero paidi\n\
+9. Metakinhsh toy dromea sto deksi paidi\n\
+10.Metakinhsh toy dromea ston patera\n\
+11.Metakinhsh toy dromea stin riza\n\
+12.Katastrofh dentroy\n\
+13.Endodiatetagmenh diadromh\n\
+14.Prodiatetagmenh diadromh\n\
+15.Metadiatetagmenh diadromh\n\n\
+Dwste thn epilogh sas(1-15, 0 gia eksodo):");
+}
+
+void episkepsi(typos_deikti tree)
+{
+    int error; 
+	TStoixeioyTree x;
+	AVLTree_periexomeno(tree, &x,&error);
+	TStree_writeValue(stdout,x);
+}
+
+
+typos_deikti  riza(typos_deikti tree)
+{
+    typos_deikti  riza;
+    riza=tree;
+    return riza;           
+}
+
+void endodiataksi(typos_deikti tree)
+{
+	typos_deikti paidi;
+	int error;
+	error=0;
+	if(!AVLTree_keno(tree))
+	{
+		AVLTree_apaidi(tree,&paidi, &error);
+        endodiataksi(paidi);
+		episkepsi(tree);
+		AVLTree_dpaidi(tree,&paidi, &error);
+        endodiataksi(paidi);
+	}
+}
+
+
+
+
+void prodiataksi(typos_deikti tree)
+{
+	typos_deikti paidi;
+	int error;
+	error=0;
+	if(!AVLTree_keno(tree))
+	{
+		episkepsi(tree);
+		AVLTree_apaidi(tree,&paidi,&error);
+        prodiataksi(paidi);
+		AVLTree_dpaidi(tree,&paidi,&error);
+        prodiataksi(paidi);
+	}
+}
+
+
+
+
+void metadiataksi(typos_deikti tree)
+{
+	typos_deikti paidi;
+	int error;
+	error=0;
+	if(!AVLTree_keno(tree))
+	{
+		AVLTree_apaidi(tree,&paidi,&error);
+        metadiataksi(paidi);
+		AVLTree_dpaidi(tree,&paidi,&error);
+        metadiataksi(paidi);
+		episkepsi(tree);
+	}
+}
+
+

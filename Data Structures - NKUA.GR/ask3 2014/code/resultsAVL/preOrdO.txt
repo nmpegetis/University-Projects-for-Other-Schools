@@ -1,0 +1,1715 @@
+Key: Kelowna Country: Canada -- Key: Da Nang Country: Vietnam -- Key: Bellary Country: India -- Key: Anj Country: Japan -- Key: Alanya Country: Turkey -- Key: Agartala Country: India -- Key: Acapulco Country: Mexico -- Key: Abeokuta Country: Nigeria -- Key: Abaetetuba Country: Brazil -- Key: Aba Country: Nigeria -- Key: Aalborg Country: Denmark -- Key: Abadan Country: Iran -- Key: Abbotabad Country: Pakistan -- Key: Abakan Country: Russia -- Key: Abbotsford Country: Canada -- Key: Abilene Country: UnitedStates -- Key: Abidjan Country: IvoryCoast -- Key: Aberdeen Country: UnitedKingdom -- Key: Abiko Country: Japan -- Key: Abu Dhabi Country: United Arab Emirates -- Key: Abohar Country: India -- Key: Abuja Country: Nigeria -- Key: Adelaide Country: Australia -- Key: Achinsk Country: Russia -- Key: Accra Country: Ghana -- Key: Acarigua Country: Venezuela -- Key: Acheng Country: China -- Key: Adapazar Country: Turkey -- Key: Adana Country: Turkey -- Key: Addis Ababa Country: Ethiopia -- Key: Adoni Country: India -- Key: Adhamiyah Country: Iraq -- Key: Aden Country: Yemen -- Key: Ado-Ekiti Country: Nigeria -- Key: Afyon Country: Turkey -- Key: Adyaman Country: Turkey -- Key: Agadir Country: Morocco -- Key: Agabat Country: Turkmenistan -- Key: Akishima Country: Japan -- Key: Ahvaz Country: Iran -- Key: Ahmedabad Country: India -- Key: Agra Country: India -- Key: Ageo Country: Japan -- Key: Aguascalientes Country: Mexico -- Key: Ahome Country: Mexico -- Key: Ahmednagar Country: India -- Key: Ahuachapn Country: El Salvador -- Key: Aizuwakamatsu Country: Japan -- Key: Aix-en-Provence Country: France -- Key: Ain Beida Country: Algeria -- Key: Aizawl Country: India -- Key: Akashi Country: Japan -- Key: Ajmer Country: India -- Key: Akesu Country: China -- Key: Al Ain Country: United Arab Emirates -- Key: Aksaray Country: Turkey -- Key: Akola Country: India -- Key: Akita Country: Japan -- Key: Akron Country: United States -- Key: Aktobe Country: Kazakhstan -- Key: Aktau Country: Kazakhstan -- Key: Al 'Arish Country: Egypt -- Key: Al-Hasakah Country: Syria -- Key: Al Qadarif Country: Sudan -- Key: Al Minya Country: Egypt -- Key: Al-Fashir Country: Sudan -- Key: Alagoinhas Country: Brazil -- Key: Al-Ubayyid Country: Sudan -- Key: Alajuela Country: Costa Rica -- Key: Ambala Country: India -- Key: Alipurduar Country: India -- Key: Aletay Country: China -- Key: Alcal de Henares Country: Spain -- Key: Albuquerque Country: United States -- Key: Albacete Country: Spain -- Key: Albury-Wodonga Country: Australia -- Key: Alcorcn Country: Spain -- Key: Alchevsk Country: Ukraine -- Key: Aleppo Country: Syria -- Key: Algeciras Country: Spain -- Key: Alexandria Country: Egypt -- Key: Alexandra Country: South Africa -- Key: Alexandria Country: United States -- Key: Alicante Country: Spain -- Key: Algiers Country: Algeria -- Key: Aligarh Country: India -- Key: Almetyevsk Country: Russia -- Key: Almada Country: Portugal -- Key: Allappuzha Country: India -- Key: Allahabad Country: India -- Key: Allentown Country: United States -- Key: Almera Country: Spain -- Key: Almaty Country: Kazakhstan -- Key: Almere Country: Netherlands -- Key: Amadora Country: Portugal -- Key: Alvorada Country: Brazil -- Key: Alor Setar Country: Malaysia -- Key: Alwar Country: India -- Key: Amarah Country: Iraq -- Key: Amagasaki Country: Japan -- Key: Amarillo Country: United States -- Key: Anda Country: China -- Key: Amravati Country: India -- Key: Amersfoort Country: Netherlands -- Key: Ambon Country: Indonesia -- Key: Ambato Country: Ecuador -- Key: Americana Country: Brazil -- Key: Amman Country: Jordan -- Key: Amiens Country: France -- Key: Amol Country: Iran -- Key: Anaheim Country: United States -- Key: Amroha Country: India -- Key: Amritsar Country: India -- Key: Amsterdam Country: Netherlands -- Key: Ananindeua Country: Brazil -- Key: Anand Country: India -- Key: Anchorage Country: United States -- Key: Angarsk Country: Russia -- Key: Andimeshk Country: Iran -- Key: Andijan Country: Uzbekistan -- Key: Andong Country: South Korea -- Key: Angers Country: France -- Key: Angeles City Country: Philippines -- Key: Angren Country: Uzbekistan -- Key: Baise Country: China -- Key: Arlington, Texas Country: United States -- Key: Anyang Country: China -- Key: Anshan Country: China -- Key: Ann Arbor Country: United States -- Key: Ankara Country: Turkey -- Key: Ankang Country: China -- Key: Anlu Country: China -- Key: Anqing Country: China -- Key: Annaba Country: Algeria -- Key: Anpolis Country: Brazil -- Key: Ansan Country: South Korea -- Key: Antananarivo Country: Madagascar -- Key: Antakya Country: Turkey -- Key: Anshun Country: China -- Key: Antalya Country: Turkey -- Key: Antofagasta Country: Chile -- Key: Antipolo City Country: Philippines -- Key: Antwerp Country: Belgium -- Key: Aracaju Country: Brazil -- Key: Apeldoorn Country: Netherlands -- Key: Aomori Country: Japan -- Key: Anyang Country: South Korea -- Key: Aparecida de Goinia Country: Brazil -- Key: Apucarana Country: Brazil -- Key: Apopa Country: El Salvador -- Key: Ar Raqqah Country: Syria -- Key: Araatuba Country: Brazil -- Key: Arayat Country: Philippines -- Key: Arapiraca Country: Brazil -- Key: Araguana Country: Brazil -- Key: Arad Country: Romania -- Key: Arak Country: Iran -- Key: Araras Country: Brazil -- Key: Araraquara Country: Brazil -- Key: Araure Country: Venezuela -- Key: Arequipa Country: Peru -- Key: Ardabil Country: Iran -- Key: Arcot Country: India -- Key: Arecibo Country: Puerto Rico -- Key: Arica Country: Chile -- Key: Argenteuil Country: France -- Key: Arkhangelsk Country: Russia -- Key: Aurora, Illinois Country: United States -- Key: Astrakhan Country: Russia -- Key: Arzamas Country: Russia -- Key: Arnhem Country: Netherlands -- Key: Armavir Country: Russia -- Key: Arlington, Virginia Country: United States -- Key: Armenia Country: Colombia -- Key: Arusha Country: Tanzania -- Key: Arrah Country: India -- Key: Arvada Country: United States -- Key: Ashdod Country: Israel -- Key: Asaka Country: Japan -- Key: Asahikawa Country: Japan -- Key: Asansol Country: India -- Key: Asmara Country: Eritrea -- Key: Ashikaga Country: Japan -- Key: Astana Country: Kazakhstan -- Key: Atsugi Country: Japan -- Key: Athens Country: Greece -- Key: Aswan Country: Egypt -- Key: Asuncin Country: Paraguay -- Key: Asyut Country: Egypt -- Key: Atibaia Country: Brazil -- Key: Athens Country: United States -- Key: Atlanta Country: United States -- Key: Augsburg Country: Germany -- Key: Atyrau Country: Kazakhstan -- Key: Atushi Country: China -- Key: Auckland Country: New Zealand -- Key: Aurangabad Country: India -- Key: Augusta Country: United States -- Key: Aurora, Colorado Country: United States -- Key: Bag Country: Brazil -- Key: Babruysk Country: Belarus -- Key: Ayacucho Country: Peru -- Key: Avellaneda Country: Argentina -- Key: Austin Country: United States -- Key: Avignon Country: France -- Key: Bab Ezzouar Country: Algeria -- Key: Aydn Country: Turkey -- Key: Babol Country: Iran -- Key: Bacu Country: Romania -- Key: Bacolod Country: Philippines -- Key: Bacoor Country: Philippines -- Key: Badalona Country: Spain -- Key: Badajoz Country: Spain -- Key: Bafoussam Country: Cameroon -- Key: Baharampur Country: India -- Key: Bago City Country: Philippines -- Key: Baghdad Country: Iraq -- Key: Bago Country: Burma -- Key: Baguio Country: Philippines -- Key: Baha Blanca Country: Argentina -- Key: Bahraich Country: India -- Key: Bahawalpur Country: Pakistan -- Key: Bahawalnagar Country: Pakistan -- Key: Bahir Dar Country: Ethiopia -- Key: Baicheng Country: China -- Key: Baia Mare Country: Romania -- Key: Baidoa Country: Somalia -- Key: Barrackpur Country: India -- Key: Banja Luka Country: Bosnia and Herzegovina -- Key: Balurghat Country: India -- Key: Baleshwar Country: India -- Key: Baku Country: Azerbaijan -- Key: Baiyin Country: China -- Key: Baishan Country: China -- Key: Bakersfield Country: United States -- Key: Balashikha Country: Russia -- Key: Balakovo Country: Russia -- Key: Balkesir Country: Turkey -- Key: Balikpapan Country: Indonesia -- Key: Baliuag Country: Philippines -- Key: Baltimore Country: United States -- Key: Bally Country: India -- Key: Bandung Country: Indonesia -- Key: Banda Aceh Country: Indonesia -- Key: Bamenda Country: Cameroon -- Key: Bamako Country: Mali -- Key: Bandrma Country: Turkey -- Key: Bandar Abbas Country: Iran -- Key: Bangui Country: Central African Republic -- Key: Bangkok Country: Thailand -- Key: Bangalore Country: India -- Key: Bani Suwayf Country: Egypt -- Key: Banha Country: Egypt -- Key: Barbacena Country: Brazil -- Key: Baoshan Country: China -- Key: Bankura Country: India -- Key: Banjul Country: Gambia -- Key: Banjarmasin Country: Indonesia -- Key: Baoji Country: China -- Key: Baoding Country: China -- Key: Baraki Country: Algeria -- Key: Barakaldo Country: Spain -- Key: Baotou Country: China -- Key: Baranovichi Country: Belarus -- Key: Baranagar Country: India -- Key: Barika Country: Algeria -- Key: Bardhaman Country: India -- Key: Barcelona Country: Venezuela -- Key: Barcelona Country: Spain -- Key: Bari Country: Italy -- Key: Bareilly Country: India -- Key: Barnaul Country: Russia -- Key: Barisal Country: Bangladesh -- Key: Barinas Country: Venezuela -- Key: Barra Mansa Country: Brazil -- Key: Barquisimeto Country: Venezuela -- Key: Bauru Country: Brazil -- Key: Bat Yam Country: Israel -- Key: Barueri Country: Brazil -- Key: Barreiras Country: Brazil -- Key: Barranquilla Country: Colombia -- Key: Barrancabermeja Country: Colombia -- Key: Barrie Country: Canada -- Key: Barretos Country: Brazil -- Key: Basel Country: Switzerland -- Key: Barysaw Country: Belarus -- Key: Baruta Country: Venezuela -- Key: Basra Country: Iraq -- Key: Basirhat Country: India -- Key: Bathinda Country: India -- Key: Batangas City Country: Philippines -- Key: Batam Country: Indonesia -- Key: Batala Country: India -- Key: Bath Country: United Kingdom -- Key: Bataysk Country: Russia -- Key: Baton Rouge Country: United States -- Key: Batna Country: Algeria -- Key: Batman Country: Turkey -- Key: Batumi Country: Georgia -- Key: Battambang Country: Cambodia -- Key: Beed Country: India -- Key: Baybay Country: Philippines -- Key: Bayamo Country: Cuba -- Key: Bayamn Country: Puerto Rico -- Key: Bayambang Country: Philippines -- Key: Bayawan Country: Philippines -- Key: Bayannur Country: China -- Key: Beaumont Country: United States -- Key: Bchar Country: Algeria -- Key: Bazhou Country: China -- Key: Beau-Bassin Country: Mauritius -- Key: Beawar Country: India -- Key: Beauvais Country: France -- Key: Beirut Country: Lebanon -- Key: Beihai Country: China -- Key: Bei'an Country: China -- Key: Beersheba Country: Israel -- Key: Beipiao Country: China -- Key: Beijing Country: China -- Key: Belgorod Country: Russia -- Key: Belford Roxo Country: Brazil -- Key: Belfast Country: United Kingdom -- Key: Belgaum Country: India -- Key: Belgrade Country: Serbia -- Key: Caracas Country: Venezuela -- Key: Boulogne-Billancourt Country: France -- Key: Bihar Sharif Country: India -- Key: Besanon Country: France -- Key: Benxi Country: China -- Key: Bengbu Country: China -- Key: Belm Country: Brazil -- Key: Bellevue Country: United States -- Key: Bello Country: Colombia -- Key: Belo Horizonte Country: Brazil -- Key: Benito Jurez Country: Mexico -- Key: Benguela Country: Angola -- Key: Benghazi Country: Libya -- Key: Beni Mellal Country: Morocco -- Key: Benoni Country: South Africa -- Key: Bergen Country: Norway -- Key: Berezniki Country: Russia -- Key: Berbera Country: Somalia -- Key: Beppu Country: Japan -- Key: Berdyansk Country: Ukraine -- Key: Bergamo Country: Italy -- Key: Berlin Country: Germany -- Key: Berhampur Country: India -- Key: Bergisch Gladbach Country: Germany -- Key: Berkeley Country: United States -- Key: Bern Country: Switzerland -- Key: Bhimavaram Country: India -- Key: Bharatpur Country: Nepal -- Key: Bhagalpur Country: India -- Key: Bettiah Country: India -- Key: Betim Country: Brazil -- Key: Bhadravati Country: India -- Key: Bharatpur Country: India -- Key: Bhilai Country: India -- Key: Bhatpara Country: India -- Key: Bharuch Country: India -- Key: Bhavnagar Country: India -- Key: Bhilwara Country: India -- Key: Bhuj Country: India -- Key: Bhopal Country: India -- Key: Bhiwandi Country: India -- Key: Bhind Country: India -- Key: Bhiwani Country: India -- Key: Bhubaneswar Country: India -- Key: Biaystok Country: Poland -- Key: Bhusawal Country: India -- Key: Bian Country: Philippines -- Key: Bielefeld Country: Germany -- Key: Bidar Country: India -- Key: Bielsko-Biaa Country: Poland -- Key: Bloemfontein Country: South Africa -- Key: Birmingham Country: United States -- Key: Billings Country: United States -- Key: Bilaspur Country: India -- Key: Bikaner Country: India -- Key: Bijapur Country: India -- Key: Bila Tserkva Country: Ukraine -- Key: Bilbao Country: Spain -- Key: Birjand Country: Iran -- Key: Binzhou Country: China -- Key: Binangonan Country: Philippines -- Key: Biratnagar Country: Nepal -- Key: Birmingham Country: United Kingdom -- Key: Bjaa Country: Algeria -- Key: Bissau Country: Guinea-Bissau -- Key: Biskra Country: Algeria -- Key: Bishkek Country: Kyrgyzstan -- Key: Bislig Country: Philippines -- Key: Biysk Country: Russia -- Key: Bizerte Country: Tunisia -- Key: Blagoveshchensk Country: Russia -- Key: Blackpool Country: United Kingdom -- Key: Blackburn Country: United Kingdom -- Key: Bli Country: Moldova -- Key: Blantyre Country: Malawi -- Key: Blida Country: Algeria -- Key: Boma Country: Democratic Republic of the Congo -- Key: Bogra Country: Bangladesh -- Key: Bobo-Dioulasso Country: Burkina Faso -- Key: Bnei Brak Country: Israel -- Key: Blumenau Country: Brazil -- Key: Boa Vista Country: Brazil -- Key: Bochum Country: Germany -- Key: Bocaue Country: Philippines -- Key: Bogor Country: Indonesia -- Key: Boksburg Country: South Africa -- Key: Bojnord Country: Iran -- Key: Boise Country: United States -- Key: Bokaro Steel City Country: India -- Key: Bologna Country: Italy -- Key: Bole Country: China -- Key: Bolton Country: United Kingdom -- Key: Botoani Country: Romania -- Key: Bordj El Kiffan Country: Algeria -- Key: Bordeaux Country: France -- Key: Bonn Country: Germany -- Key: Bordj Bou Arrridj Country: Algeria -- Key: Bosaso Country: Somalia -- Key: Borujerd Country: Iran -- Key: Boston Country: United States -- Key: Botucatu Country: Brazil -- Key: Botshabelo Country: South Africa -- Key: Botou Country: China -- Key: Bottrop Country: Germany -- Key: Bouak Country: Ivory Coast -- Key: Bou Sada Country: Algeria -- Key: Boulder Country: United States -- Key: Butuan Country: Philippines -- Key: Brownsville Country: United States -- Key: Brazzaville Country: Republic of the Congo -- Key: Brampton Country: Canada -- Key: Bradford Country: United Kingdom -- Key: Bournemouth Country: United Kingdom -- Key: Bourg-en-Bresse Country: France -- Key: Bozhou Country: China -- Key: Bragana Paulista Country: Brazil -- Key: Braga Country: Portugal -- Key: Bratislava Country: Slovakia -- Key: Braslia Country: Brazil -- Key: Braov Country: Romania -- Key: Braunschweig Country: Germany -- Key: Bratsk Country: Russia -- Key: Brest Country: France -- Key: Bremerhaven Country: Germany -- Key: Bremen Country: Germany -- Key: Breda Country: Netherlands -- Key: Brest Country: Belarus -- Key: Brescia Country: Italy -- Key: Brila Country: Romania -- Key: Bridgeport Country: United States -- Key: Brighton Country: United Kingdom -- Key: Bristol Country: United Kingdom -- Key: Brisbane Country: Australia -- Key: Brno Country: Czech Republic -- Key: Bukhara Country: Uzbekistan -- Key: Budaun Country: India -- Key: Bucaramanga Country: Colombia -- Key: Brussels Country: Belgium -- Key: Bruges Country: Belgium -- Key: Bryansk Country: Russia -- Key: Bucheon Country: South Korea -- Key: Bucharest Country: Romania -- Key: Budapest Country: Hungary -- Key: Buga Country: Colombia -- Key: Buenos Aires Country: Argentina -- Key: Buenaventura Country: Colombia -- Key: Buffalo Country: United States -- Key: Bukan Country: Iran -- Key: Bujumbura Country: Burundi -- Key: Bukavu Country: Democratic Republic of the Congo -- Key: Burgos Country: Spain -- Key: Burao Country: Somalia -- Key: Bulawayo Country: Zimbabwe -- Key: Bulandshahr Country: India -- Key: Bun Ma Thut Country: Vietnam -- Key: Burewala Country: Pakistan -- Key: Burbank Country: United States -- Key: Burgas Country: Bulgaria -- Key: Bursa Country: Turkey -- Key: Burlington Country: Canada -- Key: Burhanpur Country: India -- Key: Burnaby Country: Canada -- Key: Busan Country: South Korea -- Key: Bury Country: United Kingdom -- Key: Bushehr Country: Iran -- Key: Calgary Country: Canada -- Key: Cagliari Country: Italy -- Key: Cabo de Santo Agostinho Country: Brazil -- Key: Cabanatuan City Country: Philippines -- Key: Bydgoszcz Country: Poland -- Key: Buzu Country: Romania -- Key: Bytom Country: Poland -- Key: Cabimas Country: Venezuela -- Key: Cabo Frio Country: Brazil -- Key: Cadiz City Country: Philippines -- Key: Cachoeirinha Country: Brazil -- Key: Cabuyao City Country: Philippines -- Key: Cachoeiro de Itapemirim Country: Brazil -- Key: Cagayan de Oro Country: Philippines -- Key: Caen Country: France -- Key: Calabar Country: Nigeria -- Key: Cairns Country: Australia -- Key: Cainta Country: Philippines -- Key: Caguas Country: Puerto Rico -- Key: Cajamarca Country: Peru -- Key: Cairo Country: Egypt -- Key: Calamba City Country: Philippines -- Key: Calama Country: Chile -- Key: Calais Country: France -- Key: Calbayog Country: Philippines -- Key: Calapan City Country: Philippines -- Key: Campina Grande Country: Brazil -- Key: Camaragibe Country: Brazil -- Key: Camaari Country: Brazil -- Key: Caloocan Country: Philippines -- Key: Cali Country: Colombia -- Key: Camagey Country: Cuba -- Key: Cambridge Country: United States -- Key: Cambridge Country: Canada -- Key: Cambridge Country: United Kingdom -- Key: Campeche Country: Mexico -- Key: Cangzhou Country: China -- Key: Canberra Country: Australia -- Key: Campo Grande Country: Brazil -- Key: Campinas Country: Brazil -- Key: Campos dos Goytacazes Country: Brazil -- Key: Candelaria Country: Philippines -- Key: Cape Breton Country: Canada -- Key: Canoas Country: Brazil -- Key: Cap-Hatien Country: Haiti -- Key: Cape Coral Country: United States -- Key: Chitungwiza Country: Zimbabwe -- Key: Chaozhou Country: China -- Key: Caucaia Country: Brazil -- Key: Cartagena de Indias Country: Colombia -- Key: Carolina Country: Puerto Rico -- Key: Cariacica Country: Brazil -- Key: Carcar Country: Philippines -- Key: Carapicuba Country: Brazil -- Key: Cardiff Country: United Kingdom -- Key: Carlisle Country: United Kingdom -- Key: Carrollton Country: United States -- Key: Carrefour Country: Haiti -- Key: Carpano Country: Venezuela -- Key: Cartagena Country: Spain -- Key: Castanhal Country: Brazil -- Key: Casablanca Country: Morocco -- Key: Cartago Country: Costa Rica -- Key: Cartago Country: Colombia -- Key: Caruaru Country: Brazil -- Key: Cascavel Country: Brazil -- Key: Catia La Mar Country: Venezuela -- Key: Catanduva Country: Brazil -- Key: Castelln de la Plana Country: Spain -- Key: Catania Country: Italy -- Key: Cauayan City Country: Philippines -- Key: Chandler Country: United States -- Key: Cdiz Country: Spain -- Key: Caxias Country: Brazil -- Key: Cavite City Country: Philippines -- Key: Cayenne Country: French Guiana -- Key: Caxias do Sul Country: Brazil -- Key: Ccuta Country: Colombia -- Key: Celaya Country: Mexico -- Key: Cedar Rapids Country: United States -- Key: Cebu City Country: Philippines -- Key: Chandannagar Country: India -- Key: Cha Country: Colombia -- Key: Chandigarh Country: India -- Key: Changshi Country: China -- Key: Changji Country: China -- Key: Changchun Country: China -- Key: Chandrapur Country: India -- Key: Changde Country: China -- Key: Changsha Country: China -- Key: Chaohu Country: China -- Key: Changzhi Country: China -- Key: Changwon Country: South Korea -- Key: Changzhou Country: China -- Key: Chaoyang Country: China -- Key: Chiayi Country: Taiwan -- Key: Chengzhou Country: China -- Key: Chattanooga Country: United States -- Key: Charlotte Country: United States -- Key: Charikar Country: Afghanistan -- Key: Chapec Country: Brazil -- Key: Charleroi Country: Belgium -- Key: Chatham-Kent Country: Canada -- Key: Chengde Country: China -- Key: Chelyabinsk Country: Russia -- Key: Cheboksary Country: Russia -- Key: Chemnitz Country: Germany -- Key: Chengdu Country: China -- Key: Cherkessk Country: Russia -- Key: Cherepovets Country: Russia -- Key: Cheonan Country: South Korea -- Key: Chennai Country: India -- Key: Cheongju Country: South Korea -- Key: Cherkasy Country: Ukraine -- Key: Cherthala Country: India -- Key: Chernivtsi Country: Ukraine -- Key: Chernihiv Country: Ukraine -- Key: Chhapra Country: India -- Key: Chfu Country: Japan -- Key: Chiang Mai Country: Thailand -- Key: Chimbote Country: Peru -- Key: Chigasaki Country: Japan -- Key: Chiclayo Country: Peru -- Key: Chibi City Country: China -- Key: Chiba Country: Japan -- Key: Chicago Country: United States -- Key: Chifeng Country: China -- Key: Chikmagalur Country: India -- Key: Chihuahua Country: Mexico -- Key: Chiinu Country: Moldova -- Key: Chilpancingo Country: Mexico -- Key: Chilln Country: Chile -- Key: Chimalhuacn Country: Mexico -- Key: Chirchiq Country: Uzbekistan -- Key: Chiniot Country: Pakistan -- Key: Chincha Alta Country: Peru -- Key: Chinandega Country: Nicaragua -- Key: Chingola Country: Zambia -- Key: Chirala Country: India -- Key: Chittagong Country: Bangladesh -- Key: Chita Country: Russia -- Key: Chishtian Country: Pakistan -- Key: Chitradurga Country: India -- Key: Chittoor Country: India -- Key: Colombo Country: Brazil -- Key: Ciudad Lpez Mateos Country: Mexico -- Key: Chungju Country: South Korea -- Key: Chongjin Country: North Korea -- Key: Choluteca Country: Honduras -- Key: Chlef Country: Algeria -- Key: Chizhou Country: China -- Key: Choloma Country: Honduras -- Key: Chonburi Country: Thailand -- Key: Chula Vista Country: United States -- Key: Chorzw Country: Poland -- Key: Chongqing Country: China -- Key: Christchurch Country: New Zealand -- Key: Chuncheon Country: South Korea -- Key: Ciudad Apodaca Country: Mexico -- Key: Cincinnati Country: United States -- Key: Chuzhou Country: China -- Key: Chuxiong City Country: China -- Key: Cienfuegos Country: Cuba -- Key: Cirebon Country: Indonesia -- Key: Ciudad Acua Country: Mexico -- Key: Ciudad Jurez Country: Mexico -- Key: Ciudad Delgado Country: El Salvador -- Key: Ciudad Bolvar Country: Venezuela -- Key: Ciudad Guayana Country: Venezuela -- Key: Ciudad Losada Country: Venezuela -- Key: Cm Ph Country: Vietnam -- Key: Clarksville Country: United States -- Key: Ciudad del Este Country: Paraguay -- Key: Ciudad Obregn Country: Mexico -- Key: Ciudad Madero Country: Mexico -- Key: Ciudad Victoria Country: Mexico -- Key: Cixi Country: China -- Key: Clermont-Ferrand Country: France -- Key: Clearwater Country: United States -- Key: Cleveland Country: United States -- Key: Cluj-Napoca Country: Romania -- Key: Colatina Country: Brazil -- Key: Cochabamba Country: Bolivia -- Key: Coacalco Country: Mexico -- Key: Cn Th Country: Vietnam -- Key: Coatzacoalcos Country: Mexico -- Key: Coimbatore Country: India -- Key: Cod Country: Brazil -- Key: Coimbra Country: Portugal -- Key: Colima Country: Mexico -- Key: Colchester Country: United Kingdom -- Key: Cologne Country: Germany -- Key: Coln Country: Panama -- Key: Cotonou Country: Benin -- Key: Coquimbo Country: Chile -- Key: Concepcin Country: Chile -- Key: Columbus Country: United States -- Key: Colorado Springs Country: United States -- Key: Colombo Country: Sri Lanka -- Key: Columbia Country: United States -- Key: Comodoro Rivadavia Country: Argentina -- Key: Comilla Country: Bangladesh -- Key: Conakry Country: Guinea -- Key: Constantine Country: Algeria -- Key: Concordia Country: Argentina -- Key: Concord Country: United States -- Key: Constana Country: Romania -- Key: Copenhagen Country: Denmark -- Key: Contagem Country: Brazil -- Key: Copiap Country: Chile -- Key: Corrientes Country: Argentina -- Key: Cork Country: Ireland -- Key: Coral Springs Country: United States -- Key: Coquitlam Country: Canada -- Key: Corby Country: England -- Key: Corona Country: United States -- Key: Coro Country: Venezuela -- Key: Corpus Christi Country: United States -- Key: Cotabato City Country: Philippines -- Key: Costa Mesa Country: United States -- Key: Cotia Country: Brazil -- Key: Cubato Country: Brazil -- Key: Crdoba Country: Argentina -- Key: Coventry Country: United Kingdom -- Key: Cottbus Country: Germany -- Key: Crato Country: Brazil -- Key: Craiova Country: Romania -- Key: Crawley Country: United Kingdom -- Key: Cuautitln Country: Mexico -- Key: Crdoba Country: Spain -- Key: Crdoba Country: Mexico -- Key: Cricima Country: Brazil -- Key: Cuautla Country: Mexico -- Key: Cuman Country: Venezuela -- Key: Cuiab Country: Brazil -- Key: Cuenca Country: Ecuador -- Key: Cuddalore Country: India -- Key: Cuernavaca Country: Mexico -- Key: Culiacn Country: Mexico -- Key: Cuttack Country: India -- Key: Curitiba Country: Brazil -- Key: Curic Country: Chile -- Key: Cusco Country: Peru -- Key: Czstochowa Country: Poland -- Key: Da Lat Country: Vietnam -- Key: Haiphong Country: Vietnam -- Key: Ferrara Country: Italy -- Key: Downey Country: United States -- Key: Dera Ghazi Khan Country: Pakistan -- Key: Daraga Country: Philippines -- Key: Daly City Country: United States -- Key: Dait Country: Japan -- Key: Daejeon Country: South Korea -- Key: Dadu Country: Pakistan -- Key: Dabgram Country: India -- Key: Daegu Country: South Korea -- Key: Dagupan Country: Philippines -- Key: Dallas Country: United States -- Key: Dali Country: China -- Key: Dakar Country: Senegal -- Key: Dalian Country: China -- Key: Daloa Country: Ivory Coast -- Key: Dandong Country: China -- Key: Damoh Country: India -- Key: Damascus Country: Syria -- Key: Damanhur Country: Egypt -- Key: Dammam Country: Saudi Arabia -- Key: Danao City Country: Philippines -- Key: Danyang Country: China -- Key: Danjiangkou Country: China -- Key: Dangyang Country: China -- Key: Daqing Country: China -- Key: Daoguz Country: Turkmenistan -- Key: Dar Es Salaam Country: Tanzania -- Key: Dazhou Country: China -- Key: Dasmarias Country: Philippines -- Key: Darwin Country: Australia -- Key: Darlington Country: United Kingdom -- Key: Darbhanga Country: India -- Key: Darmstadt Country: Germany -- Key: Daska Country: Pakistan -- Key: Davao City Country: Philippines -- Key: Daugavpils Country: Latvia -- Key: Datong Country: China -- Key: Davangere Country: India -- Key: Dayton Country: United States -- Key: Delhi Country: India -- Key: Dehradun Country: India -- Key: Debrecen Country: Hungary -- Key: Dbrowa Grnicza Country: Poland -- Key: Dehiwala-Mount Lavinia Country: Sri Lanka -- Key: Deir ez Zor Country: Syria -- Key: Denpasar Country: Indonesia -- Key: Dengzhou Country: China -- Key: Delmas Country: Haiti -- Key: Denizli Country: Turkey -- Key: Denver Country: United States -- Key: Dipolog City Country: Philippines -- Key: Dhanbad Country: India -- Key: Detroit Country: United States -- Key: Des Moines Country: United States -- Key: Derby Country: United Kingdom -- Key: Derbent Country: Russia -- Key: Derince Country: Turkey -- Key: Dessie Country: Ethiopia -- Key: Dezhou Country: China -- Key: Deyang Country: China -- Key: Dewas Country: India -- Key: Dezful Country: Iran -- Key: Dhaka Country: Bangladesh -- Key: Dijon Country: France -- Key: Dibrugarh Country: India -- Key: Diadema Country: Brazil -- Key: Dhule Country: India -- Key: Diaobingshan Country: China -- Key: Digos City Country: Philippines -- Key: Dindigul Country: India -- Key: Dimitrovgrad Country: Russia -- Key: Dili Country: Timor-Leste -- Key: Dinajpur Country: Bangladesh -- Key: Dingzhou Country: China -- Key: Doha Country: Qatar -- Key: Djibouti Country: Djibouti -- Key: Diyarbakr Country: Turkey -- Key: Divinpolis Country: Brazil -- Key: Dire Dawa Country: Ethiopia -- Key: Diwaniyah Country: Iraq -- Key: Djelfa Country: Algeria -- Key: Dobrich Country: Bulgaria -- Key: Dnipropetrovsk Country: Ukraine -- Key: Dniprodzerzhinsk Country: Ukraine -- Key: Doboj Country: Bosnia and Herzegovina -- Key: Dodoma Country: Tanzania -- Key: Dongying Country: China -- Key: Dongtai Country: China -- Key: Dongchuan Country: China -- Key: Donetsk Country: Ukraine -- Key: Dongguan Country: China -- Key: Dongyang Country: China -- Key: Douala Country: Cameroon -- Key: Dortmund Country: Germany -- Key: Dordrecht Country: Netherlands -- Key: Dos Quebradas Country: Colombia -- Key: Dourados Country: Brazil -- Key: Elblg Country: Poland -- Key: Dzerzhinsk Country: Russia -- Key: Dunhua Country: China -- Key: Duisburg Country: Germany -- Key: Dubai Country: United Arab Emirates -- Key: Drobeta-Turnu Severin Country: Romania -- Key: Dresden Country: Germany -- Key: Dsseldorf Country: Germany -- Key: Dublin Country: Ireland -- Key: Dudley Country: United Kingdom -- Key: Dundee Country: United Kingdom -- Key: Dujiangyan Country: China -- Key: Duitama Country: Colombia -- Key: Dumaguete City Country: Philippines -- Key: Dunedin Country: New Zealand -- Key: Durg Country: India -- Key: Durango Country: Mexico -- Key: Dunkerque Country: France -- Key: Dunhuang Country: China -- Key: Duque de Caxias Country: Brazil -- Key: Durban Country: South Africa -- Key: Dushanbe Country: Tajikistan -- Key: Durham Country: United States -- Key: Durgapur Country: India -- Key: Durrs Country: Albania -- Key: Duyun Country: China -- Key: Eindhoven Country: Netherlands -- Key: Ede Country: Netherlands -- Key: Ecatepec Country: Mexico -- Key: Ebetsu Country: Japan -- Key: Eastbourne Country: United Kingdom -- Key: Ebina Country: Japan -- Key: Eda Country: Cameroon -- Key: Edmonton Country: Canada -- Key: Edinburgh Country: United Kingdom -- Key: Ede Country: Nigeria -- Key: Edirne Country: Turkey -- Key: Eilat Country: Israel -- Key: El Khroub Country: Algeria -- Key: El Eulma Country: Algeria -- Key: El Aain Country: Western Sahara -- Key: Ekibastuz Country: Kazakhstan -- Key: El Alto Country: Bolivia -- Key: El Jadida Country: Morocco -- Key: El Progreso Country: Honduras -- Key: El Oued Country: Algeria -- Key: El Monte Country: United States -- Key: El Paso Country: United States -- Key: Elaz Country: Turkey -- Key: El-Mahalla El-Kubra Country: Egypt -- Key: Escondido Country: United States -- Key: Enschede Country: Netherlands -- Key: Elk Grove Country: United States -- Key: Elista Country: Russia -- Key: Eldoret Country: Kenya -- Key: Elche Country: Spain -- Key: Elektrostal Country: Russia -- Key: Elizabeth Country: United States -- Key: Engels Country: Russia -- Key: Emeishan Country: China -- Key: Eluru Country: India -- Key: Emmen Country: Netherlands -- Key: English Bazar Country: India -- Key: Erfurt Country: Germany -- Key: Envigado Country: Colombia -- Key: Enshi Country: China -- Key: Ensenada Country: Mexico -- Key: Enugu Country: Nigeria -- Key: Erbil Country: Iraq -- Key: Erzincan Country: Turkey -- Key: Erlangen Country: Germany -- Key: Erie Country: United States -- Key: Erode Country: India -- Key: Erzurum Country: Turkey -- Key: Ezhou Country: China -- Key: Essen Country: Germany -- Key: Esmeraldas Country: Ecuador -- Key: Esfahan Country: Iran -- Key: Esenler Country: Turkey -- Key: Eskiehir Country: Turkey -- Key: Espoo Country: Finland -- Key: Evansville Country: United States -- Key: Eugene Country: United States -- Key: Etawah Country: India -- Key: Eujeongbu Country: South Korea -- Key: Exeter Country: United Kingdom -- Key: Fayetteville Country: United States -- Key: Farrukhabad Country: India -- Key: Faizabad Country: India -- Key: Faisalabad Country: Pakistan -- Key: Faridabad Country: India -- Key: Fatehpur Country: India -- Key: Fenghua Country: China -- Key: Feira de Santana Country: Brazil -- Key: Fayyum Country: Egypt -- Key: Fengcheng Country: China -- Key: Fergana Country: Uzbekistan -- Key: Girardot Country: Colombia -- Key: Funchal Country: Portugal -- Key: Francistown Country: Botswana -- Key: Forl Country: Italy -- Key: Florencia Country: Colombia -- Key: Flint Country: United States -- Key: Fes Country: Morocco -- Key: Ferraz de Vasconcelos Country: Brazil -- Key: Firozabad Country: India -- Key: Florence Country: Italy -- Key: Foggia Country: Italy -- Key: Floridablanca Country: Colombia -- Key: Florianpolis Country: Brazil -- Key: Focani Country: Romania -- Key: Fontana Country: United States -- Key: Fort-de-France Country: Martinique -- Key: Fort Wayne Country: United States -- Key: Fort Collins Country: United States -- Key: Formosa Country: Argentina -- Key: Fort Lauderdale Country: United States -- Key: Fort Worth Country: United States -- Key: Franca Country: Brazil -- Key: Foshan Country: China -- Key: Fortaleza Country: Brazil -- Key: Foz do Iguau Country: Brazil -- Key: Francisco Morato Country: Brazil -- Key: Fujimi Country: Japan -- Key: Fresno Country: United States -- Key: Freiburg im Breisgau Country: Germany -- Key: Frankfurt am Main Country: Germany -- Key: Franco da Rocha Country: Brazil -- Key: Freetown Country: Sierra Leone -- Key: Fremont Country: United States -- Key: Fuchu Country: Japan -- Key: Fu'an Country: China -- Key: Frth Country: Germany -- Key: Fuji Country: Japan -- Key: Fuenlabrada Country: Spain -- Key: Fujieda Country: Japan -- Key: Fukushima Country: Japan -- Key: Fukui Country: Japan -- Key: Fujinomiya Country: Japan -- Key: Fujin City Country: China -- Key: Fujisawa Country: Japan -- Key: Fukuoka Country: Japan -- Key: Fullerton Country: United States -- Key: Fukuyama Country: Japan -- Key: Fukuya Country: Japan -- Key: Fuling Country: China -- Key: Funabashi Country: Japan -- Key: Gaziantep Country: Turkey -- Key: Gangneung Country: South Korea -- Key: Gabs Country: Tunisia -- Key: Fuzhou Country: China -- Key: Fuxin Country: China -- Key: Fushun Country: China -- Key: Fuyang Country: China -- Key: Gaborone Country: Botswana -- Key: Gandhinagar Country: India -- Key: Galai Country: Romania -- Key: Gadag-Betgeri Country: India -- Key: Gandhidham Country: India -- Key: Ganganagar Country: India -- Key: Garoua Country: Cameroon -- Key: Garden Grove Country: United States -- Key: Gaocheng Country: China -- Key: Ganzhou Country: China -- Key: Garanhuns Country: Brazil -- Key: Garland Country: United States -- Key: Gaya Country: India -- Key: Gateshead Country: United Kingdom -- Key: Gary Country: United States -- Key: Gatineau Country: Canada -- Key: Gaza City Country: Palestine -- Key: Georgetown Country: Guyana -- Key: Geleen-Sittard Country: Netherlands -- Key: Geelong Country: Australia -- Key: Gdynia Country: Poland -- Key: Gdask Country: Poland -- Key: Gebze Country: Turkey -- Key: Gejiu Country: China -- Key: Genova Country: Italy -- Key: General Santos City Country: Philippines -- Key: Gelsenkirchen Country: Germany -- Key: Geneva Country: Switzerland -- Key: George Town Country: Malaysia -- Key: Ghazni Country: Afghanistan -- Key: Ghardaa Country: Algeria -- Key: Germiston Country: South Africa -- Key: Gera Country: Germany -- Key: Getafe Country: Spain -- Key: Ghaziabad Country: India -- Key: Gilbert Country: United States -- Key: Gifu Country: Japan -- Key: Ghent Country: Belgium -- Key: Gijn Country: Spain -- Key: Gingoog City Country: Philippines -- Key: Guarenas Country: Venezuela -- Key: Governador Valadares Country: Brazil -- Key: Goinia Country: Brazil -- Key: Glendale Country: United States,California -- Key: Glazov Country: Russia -- Key: Giza Country: Egypt -- Key: Giresun Country: Turkey -- Key: Glasgow Country: United Kingdom -- Key: Glendale Country: United States,Arizona -- Key: Gnc Country: Azerbaijan -- Key: Gloucester Country: United Kingdom -- Key: Gliwice Country: Poland -- Key: Gmez Palacio Country: Mexico -- Key: Godhra Country: India -- Key: Godoy Cruz Country: Ecuador -- Key: Gondiya Country: India -- Key: Gonbad-e Qabus Country: Iran -- Key: Gold Coast Country: Australia -- Key: Gojra Country: India -- Key: Goma Country: Democratic Republic of the Congo -- Key: Gondar Country: Ethiopia -- Key: Gorzw Wielkopolski Country: Poland -- Key: Gorakhpur Country: India -- Key: Gongzhuling Country: China -- Key: Gorgan Country: Iran -- Key: Gothenburg Country: Sweden -- Key: Grudzidz Country: Poland -- Key: Graz Country: Austria -- Key: Grand Rapids Country: United States -- Key: Granada Country: Spain -- Key: Granada Country: Nicaragua -- Key: Grand Prairie Country: United States -- Key: Gravata Country: Brazil -- Key: Greensboro Country: United States -- Key: Green Bay Country: United States -- Key: Greater Wollongong Country: 
+ -- Key: Groningen Country: Netherlands -- Key: Grenoble Country: France -- Key: Grozny Country: Russia -- Key: Guangshui Country: China -- Key: Guanare Country: Venezuela -- Key: Guadalajara Country: Mexico -- Key: Gttingen Country: Germany -- Key: Guadalupe Country: Mexico -- Key: Guanghan Country: China -- Key: Guarapuava Country: Brazil -- Key: Guangzhou Country: China -- Key: Guangyuan Country: China -- Key: Guantnamo Country: Cuba -- Key: Guaratinguet Country: Brazil -- Key: Guri Country: South Korea -- Key: Guilin Country: China -- Key: Guaynabo Country: Puerto Rico -- Key: Guayaquil Country: Ecuador -- Key: Guarulhos Country: Brazil -- Key: Guaruj Country: Brazil -- Key: Guatemala City Country: Guatemala -- Key: Guaymas Country: Mexico -- Key: Guelph Country: Canada -- Key: Gudivada Country: India -- Key: Gudiawaye Country: Senegal -- Key: Guelma Country: Algeria -- Key: Guigang Country: China -- Key: Gumi Country: South Korea -- Key: Gujrat City Country: India -- Key: Gujiao Country: China -- Key: Guiyang Country: China -- Key: Gujranwala Country: Pakistan -- Key: Gulbarga Country: India -- Key: Guntur Country: India -- Key: Gunsan Country: South Korea -- Key: Guna Country: India -- Key: Guntakul Country: India -- Key: Gurgaon Country: India -- Key: Habra Country: India -- Key: Gyeongju Country: South Korea -- Key: Gwangju Country: South Korea -- Key: Guwahati Country: India -- Key: Guruvayur Country: India -- Key: Gwalior Country: India -- Key: Gweru Country: Zimbabwe -- Key: Haarlem Country: Netherlands -- Key: Gyumri Country: Armenia -- Key: Gyr Country: Hungary -- Key: Ha Long Country: Vietnam -- Key: Habikino Country: Japan -- Key: Hagen Country: Germany -- Key: Haeju Country: North Korea -- Key: Hachinohe Country: Japan -- Key: Hachiji Country: Japan -- Key: Hadano Country: Japan -- Key: Hafizabad Country: Pakistan -- Key: Hailun Country: China -- Key: Haifa Country: Israel -- Key: Haicheng Country: China -- Key: Haikou Country: China -- Key: Haining City Country: China -- Key: Itami Country: Japan -- Key: Huadian Country: China -- Key: Heraklion Country: Greece -- Key: Hapur Country: India -- Key: Hamilton Country: Canada -- Key: Hama Country: Syria -- Key: Halifax Country: Canada -- Key: Haldia Country: India -- Key: Hakodate Country: Japan -- Key: Haldwani-cum-Kathgodam Country: India -- Key: Halle Country: Germany -- Key: Hamhung Country: North Korea -- Key: Hamamatsu Country: Japan -- Key: Hamadan Country: Iran -- Key: Hamburg Country: Germany -- Key: Hami City Country: China -- Key: Handan Country: China -- Key: Hancheng Country: China -- Key: Hamm Country: Germany -- Key: Hamilton Country: New Zealand -- Key: Hanam Country: South Korea -- Key: Handa Country: Japan -- Key: Hanzhong Country: China -- Key: Hanoi Country: Vietnam -- Key: Hangzhou Country: China -- Key: Hanover Country: Germany -- Key: Haora Country: India -- Key: Hechi Country: China -- Key: Hassan Country: India -- Key: Haridwar Country: India -- Key: Harbin Country: China -- Key: Harare Country: Zimbabwe -- Key: Hargeisa Country: Somalia -- Key: Hartford Country: United States -- Key: Hebi Country: China -- Key: Havana Country: Cuba -- Key: Hathras Country: India -- Key: Hayward Country: United States -- Key: Hebron Country: Palestine -- Key: Heilbronn Country: Germany -- Key: Heidelberg Country: Germany -- Key: Hefei Country: China -- Key: Heerlen-Kerkrade Country: Netherlands -- Key: Hegang Country: China -- Key: Heihe Country: China -- Key: Hengshui Country: China -- Key: Helsinki Country: Finland -- Key: Helsingborg Country: Sweden -- Key: Henderson Country: United States -- Key: Hengyang Country: China -- Key: Hisar Country: India -- Key: Higashiosaka Country: Japan -- Key: Heyuan Country: China -- Key: Heshan Country: China -- Key: Hermosillo Country: Mexico -- Key: Herat Country: Afghanistan -- Key: Herne Country: Germany -- Key: Hetian Country: China -- Key: Higashikurume Country: Japan -- Key: Hialeah Country: United States -- Key: Heze Country: China -- Key: Higashihiroshima Country: Japan -- Key: Higashimurayama Country: Japan -- Key: Hindupur Country: India -- Key: Himamaylan City Country: Philippines -- Key: Hildesheim Country: Germany -- Key: Hikone Country: Japan -- Key: Hilla Country: Iraq -- Key: Himeji Country: Japan -- Key: Hirosaki Country: Japan -- Key: Hirataka Country: Japan -- Key: Hino Country: Japan -- Key: Hiratsuka Country: Japan -- Key: Hiroshima Country: Japan -- Key: Honolulu Country: United States -- Key: Holgun Country: Cuba -- Key: Hobart Country: Australia -- Key: Hitachinaka Country: Japan -- Key: Hitachi Country: Japan -- Key: Ho Chi Minh City Country: Vietnam -- Key: Hofu Country: Japan -- Key: Hong Kong Country: Hong Kong -- Key: Homs Country: Syria -- Key: Holon Country: Israel -- Key: Homyel Country: Belarus -- Key: Honghu Country: China -- Key: Houghly-Chinsura Country: India -- Key: Hospet Country: India -- Key: Hortolndia Country: Brazil -- Key: Horlivka Country: Ukraine -- Key: Hoshiarpur Country: India -- Key: Hospitalet de Llobregat Country: Spain -- Key: Hrodna Country: Belarus -- Key: Houston Country: United States -- Key: Houma Country: China -- Key: Hoya Country: Japan -- Key: Hsinchu Country: Taiwan -- Key: Hu Country: Vietnam -- Key: Iksan Country: South Korea -- Key: Huntington Beach Country: United States -- Key: Huaraz Country: Peru -- Key: Huambo Country: Angola -- Key: Huainan Country: China -- Key: Huaibei Country: China -- Key: Huaian Country: China -- Key: Huaihua Country: China -- Key: Huaiyin Country: China -- Key: Huangshi Country: China -- Key: Huanghua Country: China -- Key: Huancayo Country: Peru -- Key: Huangshan Country: China -- Key: Huangyan Country: China -- Key: Huhehaote Country: China -- Key: Huddersfield Country: United Kingdom -- Key: Hubli-Dharwad Country: India -- Key: Huaying Country: China -- Key: Hudaida Country: Yemen -- Key: Huelva Country: Spain -- Key: Hulunbuir Country: China -- Key: Huizhou Country: China -- Key: Huixian Country: China -- Key: Huludao Country: China -- Key: Hunchung Country: China -- Key: Ibarra Country: Ecuador -- Key: Hyderabad Country: Pakistan -- Key: Huzhou Country: China -- Key: Hunuco Country: Peru -- Key: Huntsville Country: United States -- Key: Huozhou Country: China -- Key: Hyderabad Country: India -- Key: Ibagu Country: Colombia -- Key: Iai Country: Romania -- Key: Hyesan Country: North Korea -- Key: Ibadan Country: Nigeria -- Key: Ibaraki Country: Japan -- Key: Ichinomiya Country: Japan -- Key: Ichihara Country: Japan -- Key: Ica Country: Peru -- Key: Ibirit Country: Brazil -- Key: Ichalakaranji Country: India -- Key: Ichikawa Country: Japan -- Key: Ikere-Ekiti Country: Nigeria -- Key: Iida Country: Japan -- Key: Ife Country: Nigeria -- Key: Ikeda Country: Japan -- Key: Ikoma Country: Japan -- Key: Ipatinga Country: Brazil -- Key: Imperatriz Country: Brazil -- Key: Iligan Country: Philippines -- Key: Ilesa Country: Nigeria -- Key: Ilagan Country: Philippines -- Key: Ila Country: Nigeria -- Key: Ilam Country: Iran -- Key: Ilhus Country: Brazil -- Key: Imabari Country: Japan -- Key: Ilopango Country: El Salvador -- Key: Iloilo City Country: Philippines -- Key: Ilorin Country: Nigeria -- Key: Imbaba Country: Egypt -- Key: Indianapolis Country: United States -- Key: Indaiatuba Country: Brazil -- Key: Inazawa Country: Japan -- Key: Imphal Country: India -- Key: Inchon Country: South Korea -- Key: Independence Country: United States -- Key: Ingolstadt Country: Germany -- Key: Inegl Country: Turkey -- Key: Indore Country: India -- Key: Inglewood Country: United States -- Key: Innsbruck Country: Austria -- Key: Ise Country: Japan -- Key: Irbid Country: Jordan -- Key: Iquitos Country: Peru -- Key: Ipswich Country: United Kingdom -- Key: Ipoh Country: Malaysia -- Key: Iquique Country: Chile -- Key: Irapuato Country: Mexico -- Key: Irvine Country: United States -- Key: Irkutsk Country: Russia -- Key: Iriga Country: Philippines -- Key: Iruma Country: Japan -- Key: Irving Country: United States -- Key: Itabuna Country: Brazil -- Key: Islamabad Country: Pakistan -- Key: Ishinomaki Country: Japan -- Key: Isesaki Country: Japan -- Key: Islam Shahr Country: Iran -- Key: Isparta Country: Turkey -- Key: Ismalia Country: Egypt -- Key: Itabora Country: Brazil -- Key: Itaituba Country: Brazil -- Key: Itag Country: Brazil -- Key: Itaja Country: Brazil -- Key: Joliet Country: United States -- Key: Jhang Country: Pakistan -- Key: Jalalabad Country: Afghanistan -- Key: Ixtapaluca Country: Mexico -- Key: Iwaki, Fukushima Country: Japan -- Key: Itaquaquecetuba Country: Brazil -- Key: Itapetininga Country: Brazil -- Key: Itapecerica da Serra Country: Brazil -- Key: Itapevi Country: Brazil -- Key: Ivano-Frankivsk Country: Ukraine -- Key: Itu Country: Brazil -- Key: Ivanovo Country: Russia -- Key: Iwatsuki Country: Japan -- Key: Iwakuni Country: Japan -- Key: Iwo Country: Nigeria -- Key: Jaboatao dos Guarapes Country: Brazil -- Key: Izumi Country: Japan -- Key: Izhevsk Country: Russia -- Key: Jabalpur Country: India -- Key: Ja Country: Brazil -- Key: Jacobabad Country: Pakistan -- Key: Jackson Country: United States -- Key: Jacare Country: Brazil -- Key: Jacksonville Country: United States -- Key: Jaipur Country: India -- Key: Jaffna Country: Sri Lanka -- Key: Jakarta Country: Indonesia -- Key: Jastrzbie Zdrj Country: Poland -- Key: Jamshedpur Country: India -- Key: Jalpaiguri Country: India -- Key: Jalgaon Country: India -- Key: Jalandhar Country: India -- Key: Jalna Country: India -- Key: Jambi Country: Indonesia -- Key: Jamalpur Country: Bangladesh -- Key: Jamnagar Country: India -- Key: Jaragu do Sul Country: Brazil -- Key: Jan Country: Spain -- Key: Jaranwala Country: Pakistan -- Key: Jerez de la Frontera Country: Spain -- Key: Jena Country: Germany -- Key: Jayapura Country: Indonesia -- Key: Jaunpur Country: India -- Key: Jeddah Country: Saudi Arabia -- Key: Jeonju Country: South Korea -- Key: Jeongju Country: South Korea -- Key: Jequi Country: Brazil -- Key: Jerusalem Country: Israel -- Key: Jersey City Country: United States -- Key: Jessore Country: Bangladesh -- Key: Jingmen Country: China -- Key: Jiaozhou City Country: China -- Key: Jiangyin Country: China -- Key: Jiagedaqi Country: China -- Key: Jhelum Country: Pakistan -- Key: Jhansi Country: India -- Key: Ji'an Country: China -- Key: Jiangmen Country: China -- Key: Jiamusi Country: China -- Key: Jiangshan Country: China -- Key: Jiaohe Country: China -- Key: Jiangyou Country: China -- Key: Jiaojiang Country: China -- Key: Jinan Country: China -- Key: Jieshou Country: China -- Key: Jiaxing Country: China -- Key: Jiaozuo Country: China -- Key: Jiayuguan Country: China -- Key: Jimma Country: Ethiopia -- Key: Jijel Country: Algeria -- Key: Jimo Country: China -- Key: Jincheng Country: China -- Key: Jinchang Country: China -- Key: Jingdezhen Country: China -- Key: Jixi Country: China -- Key: Jiujiang Country: China -- Key: Jinshi City Country: China -- Key: Jinhua Country: China -- Key: Jingzhou Country: China -- Key: Jining Country: China -- Key: Jinzhou Country: China -- Key: Jinzhong Country: China -- Key: Jishou Country: China -- Key: Jiutai Country: China -- Key: Jiuquan Country: China -- Key: Jiutepec Country: Mexico -- Key: Joetsu Country: Japan -- Key: Jizzakh Country: Uzbekistan -- Key: Jiyuan Country: China -- Key: Jodhpur Country: India -- Key: Jnkping Country: Sweden -- Key: Johor Bahru Country: Malaysia -- Key: Johannesburg Country: South Africa -- Key: Joinville Country: Brazil -- Key: Kanchrapara Country: India -- Key: Kairouan Country: Tunisia -- Key: Kabankalan Country: 
+ -- Key: Juliaca Country: Peru -- Key: Juazeiro Country: Brazil -- Key: Jorhat Country: India -- Key: Joo Pessoa Country: Brazil -- Key: Jos Country: Nigeria -- Key: Juba Country: South Sudan -- Key: Juazeiro do Norte Country: Brazil -- Key: Juiz de Fora Country: Brazil -- Key: Jundia Country: Brazil -- Key: Junagadh Country: India -- Key: Jyvskyl Country: Finland -- Key: Kagoshima Country: Japan -- Key: Kadoma Country: Japan -- Key: Kabwe Country: Zambia -- Key: Kabul Country: Afghanistan -- Key: Kadhimiya Country: Iraq -- Key: Kaesong Country: North Korea -- Key: Kaduna Country: Nigeria -- Key: Kafr Dawar Country: Egypt -- Key: Kaifeng Country: China -- Key: Kahramanmara Country: Turkey -- Key: Kaili Country: China -- Key: Kamakura Country: Japan -- Key: Kallithea Country: Greece -- Key: Kakinada Country: India -- Key: Kaiyuan Country: China -- Key: Kaiserslautern Country: Germany -- Key: Kakamigahara Country: Japan -- Key: Kaliningrad Country: Russia -- Key: Kakogawa Country: Japan -- Key: Kalisz Country: Poland -- Key: Kalyan Country: India -- Key: Kaluga Country: Russia -- Key: Kamagaya Country: Japan -- Key: Kamyshin Country: Russia -- Key: Kamoke Country: Pakistan -- Key: Kamensk-Uralsky Country: Russia -- Key: Kamarhati Country: India -- Key: Kamianets-Podilskyi Country: Ukraine -- Key: Kampong Cham Country: Cambodia -- Key: Kampala Country: Uganda -- Key: Kamptee Country: India -- Key: Kanazawa Country: Japan -- Key: Kananga Country: Democratic Republic of the Congo -- Key: Kanchipuram Country: India -- Key: Kashan Country: Iran -- Key: Karachi Country: Pakistan -- Key: Kansas City Country: United States -- Key: Kanhangad Country: India -- Key: Kandy Country: Sri Lanka -- Key: Kandahar Country: Afghanistan -- Key: Kanggye Country: Burma -- Key: Kano Country: Nigeria -- Key: Kannur Country: India -- Key: Kanpur Country: India -- Key: Kaohsiung Country: Taiwan -- Key: Kansk Country: Russia -- Key: Kaolack Country: Senegal -- Key: Kariya Country: Japan -- Key: Karaman Country: Turkey -- Key: Karaikkudi Country: India -- Key: Karaganda Country: Kazakhstan -- Key: Karaj Country: Iran -- Key: Karbala Country: Iraq -- Key: Karamay Country: China -- Key: Karimnagar Country: India -- Key: Karnal Country: India -- Key: Karlsruhe Country: Germany -- Key: Karur Country: India -- Key: Katowice Country: Poland -- Key: Kasur Country: Pakistan -- Key: Kassala Country: Sudan -- Key: Kashihara Country: Japan -- Key: Kashgar Country: China -- Key: Kashiwa Country: Japan -- Key: Kasugai Country: Japan -- Key: Kassel Country: Germany -- Key: Kasukabe Country: Japan -- Key: Kathmandu Country: Nepal -- Key: Kathlehong Country: South Africa -- Key: Katihar Country: India -- Key: Kazan Country: Russia -- Key: Kawaguchi Country: Japan -- Key: Kawachinagano Country: Japan -- Key: Kaunas Country: Lithuania -- Key: Kawagoe Country: Japan -- Key: Kawasaki Country: Japan -- Key: Kawanishi Country: Japan -- Key: Kayseri Country: Turkey -- Key: Kediri Country: Indonesia -- Key: Kecskemt Country: Hungary -- Key: Kchi Country: Japan -- Key: Keelung Country: Taiwan -- Key: Obninsk Country: 
+ -- Key: Mangora Country: 
+ -- Key: Las Palmas de Gran Canaria Country: Spain -- Key: Kothagudem Country: India -- Key: Kisarazu Country: Japan -- Key: Khon Kaen Country: Thailand -- Key: Khanpur Country: Pakistan -- Key: Khairpur Country: Pakistan -- Key: Kerch Country: Ukraine -- Key: Kempton Park Country: South Africa -- Key: Kemerovo Country: Russia -- Key: Kenitra Country: Morocco -- Key: Kermanshah Country: Iran -- Key: Kerman Country: Iran -- Key: Khabarovsk Country: Russia -- Key: Khandwa Country: India -- Key: Khammam Country: Saudi Arabia -- Key: Khanewal Country: Pakistan -- Key: Kherson Country: Ukraine -- Key: Khartoum North Country: Sudan -- Key: Kharkiv Country: Ukraine -- Key: Kharagpur Country: India -- Key: Khartoum Country: Sudan -- Key: Khayelitsha Country: South Africa -- Key: Khasavyurt Country: Russia -- Key: Khenchela Country: Algeria -- Key: Khmelnytskyi Country: Ukraine -- Key: Khimki Country: Russia -- Key: Khomeini Shahr Country: Iran -- Key: Kingston Country: Canada -- Key: Kidapawan City Country: Philippines -- Key: Khoy Country: Iran -- Key: Khoramshahr Country: Iran -- Key: Khoramabad Country: Iran -- Key: Khouribga Country: Morocco -- Key: Khulna Country: Bangladesh -- Key: Kigali Country: Rwanda -- Key: Kielce Country: Poland -- Key: Kiel Country: Germany -- Key: Kiev Country: Ukraine -- Key: Kimberley Country: South Africa -- Key: Kikwit Country: Democratic Republic of the Congo -- Key: Kimhae Country: South Korea -- Key: Kirkuk Country: Iraq -- Key: Kingston upon Hull Country: United Kingdom -- Key: Kingston Country: Jamaica -- Key: Kinshasa Country: Democratic Republic of the Congo -- Key: Kiryu Country: Japan -- Key: Kirovohrad Country: Ukraine -- Key: Kisangani Country: Democratic Republic of the Congo -- Key: Kolhapur Country: India -- Key: Kodaira Country: Japan -- Key: Kitchener Country: Canada -- Key: Kismayo Country: Somalia -- Key: Kishiwada Country: Japan -- Key: Kiselyovsk Country: Russia -- Key: Kislovodsk Country: Russia -- Key: Kitakyushu Country: Japan -- Key: Kisumu Country: Kenya -- Key: Kitami Country: Japan -- Key: Knoxville Country: United States -- Key: Klaipda Country: Lithuania -- Key: Kitwe Country: Zambia -- Key: Klang Country: Malaysia -- Key: Koblenz Country: Germany -- Key: Kobe Country: Japan -- Key: Kochi Country: India -- Key: Kokand Country: Uzbekistan -- Key: Koganei Country: Japan -- Key: Kofu Country: Japan -- Key: Kohat Country: Pakistan -- Key: Koice Country: Slovakia -- Key: Kokubunji Country: Japan -- Key: Kokshetau Country: Kazakhstan -- Key: Kolar Country: India -- Key: Kostanay Country: Kazakhstan -- Key: Konya Country: Turkey -- Key: Kolwezi Country: Democratic Republic of the Congo -- Key: Kollam Country: India -- Key: Kolkata Country: India -- Key: Kolomna Country: Russia -- Key: Komatsu, Ishikawa Country: Japan -- Key: Komaki Country: Japan -- Key: Komsomolsk-on-Amur Country: Russia -- Key: Korla Country: China -- Key: Korhogo Country: Ivory Coast -- Key: Korba Country: India -- Key: Koriyama Country: Japan -- Key: Koronadal City Country: Philippines -- Key: Korolyov Country: Russia -- Key: Koshigaya Country: Japan -- Key: Koszalin Country: Poland -- Key: Kostroma Country: Russia -- Key: Kosti Country: Sudan -- Key: Kota Bharu Country: Malaysia -- Key: Kota Country: India -- Key: Kota Kinabalu Country: Malaysia -- Key: Kwekwe Country: Zimbabwe -- Key: Kumasi Country: Ghana -- Key: Krkkale Country: Turkey -- Key: Krasnodar Country: Russia -- Key: Kragujevac Country: Serbia -- Key: Kovrov Country: Russia -- Key: Kottayam Country: India -- Key: Kozhikode Country: India -- Key: Kraljevo Country: Serbia -- Key: Krakw Country: Poland -- Key: Kramatorsk Country: Ukraine -- Key: Krasnyi Luch Country: Ukraine -- Key: Krasnoyarsk Country: Russia -- Key: Kremenchuk Country: Ukraine -- Key: Krefeld Country: Germany -- Key: Krishnagar Country: India -- Key: Kuching Country: Malaysia -- Key: Kuala Lumpur Country: Malaysia -- Key: Kryvyi Rih Country: Ukraine -- Key: Kruevac Country: Serbia -- Key: Ktahya Country: Turkey -- Key: Kuantan Country: Malaysia -- Key: Kuala Terengganu Country: Malaysia -- Key: Kumamoto Country: Japan -- Key: Kumagaya Country: Japan -- Key: Kursk Country: Russia -- Key: Kure Country: Japan -- Key: Kunming Country: China -- Key: Kunduz Country: Afghanistan -- Key: Kumbakonam Country: India -- Key: Kurashiki Country: Japan -- Key: Kunshan Country: China -- Key: Kurnool Country: India -- Key: Kurgan Country: Russia -- Key: Kuwait City Country: Kuwait -- Key: Kushiro Country: Japan -- Key: Kusatsu Country: Japan -- Key: Kurume Country: Japan -- Key: Kutaisi Country: Georgia -- Key: Kut Country: Iraq -- Key: Kuytun Country: China -- Key: Kuwana Country: Japan -- Key: Laiwu Country: China -- Key: La Rioja Country: Argentina -- Key: La Paz Country: Bolivia -- Key: Kzltepe Country: Turkey -- Key: Kyzyl Country: Russia -- Key: Kyoto Country: Japan -- Key: Kyzylorda Country: Kazakhstan -- Key: La Corua Country: Spain -- Key: La Ceiba Country: Honduras -- Key: La Plata Country: Argentina -- Key: La Paz Country: Mexico -- Key: Lagos Country: Nigeria -- Key: Lafayette Country: United States -- Key: La Victoria Country: Venezuela -- Key: La Serena Country: Chile -- Key: Laghouat Country: Algeria -- Key: Lages Country: Brazil -- Key: Lahti Country: Finland -- Key: Lahore Country: Pakistan -- Key: Lanxi Country: China -- Key: Langfang Country: China -- Key: Lakewood Country: United States -- Key: Laizhou Country: China -- Key: Laiyang Country: China -- Key: Lancaster Country: United States -- Key: Lalitpur Country: India -- Key: Lansing Country: United States -- Key: Lans Country: Argentina -- Key: Larissa Country: Greece -- Key: Laohekou Country: China -- Key: Laoag City Country: Philippines -- Key: Lanzhou Country: China -- Key: Laredo Country: United States -- Key: Lapu-Lapu City Country: Philippines -- Key: Larkana Country: Pakistan -- Key: Larnaca Country: Cyprus -- Key: Luanshya Country: China -- Key: Limassol Country: Cyprus -- Key: Lengshuijiang Country: China -- Key: Legans Country: Spain -- Key: Laval Country: Canada -- Key: Latur Country: India -- Key: Latakia Country: Syria -- Key: Las Vegas Country: United States -- Key: Las Tunas Country: 
+ -- Key: Latina Country: Italy -- Key: Lauro de Freitas Country: Brazil -- Key: Launceston Country: Australia -- Key: Lausanne Country: Switzerland -- Key: Le Mans Country: France -- Key: Le Havre Country: France -- Key: Lbeck Country: Germany -- Key: Leeds Country: United Kingdom -- Key: Leiden Country: Germany -- Key: Legnica Country: Poland -- Key: Legazpi City Country: Philippines -- Key: Leicester Country: United Kingdom -- Key: Len Country: Mexico -- Key: Leiyang Country: China -- Key: Leipzig Country: Germany -- Key: Leling Country: China -- Key: Len Country: Spain -- Key: Len Country: Nicaragua -- Key: Liaoyang Country: China -- Key: Lhasa Country: China -- Key: Leshan Country: China -- Key: Leninsk-Kuznetsky Country: Russia -- Key: Lengshuitan Country: China -- Key: Lens Country: France -- Key: Leverkusen Country: Germany -- Key: Leskovac Country: Serbia -- Key: Lexington Country: United States -- Key: Lianyungang Country: China -- Key: Lianyuan Country: China -- Key: Liaocheng Country: China -- Key: Liling Country: China -- Key: Lida Country: Belarus -- Key: Libreville Country: Gabon -- Key: Liaoyuan Country: China -- Key: Lichuan Country: China -- Key: Lige Country: Belgium -- Key: Ligao City Country: Philippines -- Key: Likasi Country: Democratic Republic of the Congo -- Key: Lilongwe Country: Malawi -- Key: Lille Country: France -- Key: Lima Country: Peru -- Key: Lobito Country: Angola -- Key: Lipa City Country: Philippines -- Key: Linqing Country: China -- Key: Linfen Country: China -- Key: Limoges Country: France -- Key: Limeira Country: Brazil -- Key: Lincoln Country: United States -- Key: Linhares Country: Brazil -- Key: Linhai Country: China -- Key: Linkping Country: Sweden -- Key: Linyi Country: China -- Key: Linxia Country: China -- Key: Linz Country: Austria -- Key: Livornia Country: United States -- Key: Little Rock Country: United States -- Key: Lisbon Country: Portugal -- Key: Lipetsk Country: Russia -- Key: Lishui Country: China -- Key: Liuzhou Country: China -- Key: Liupanshui Country: China -- Key: Liverpool Country: United Kingdom -- Key: Ljubljana Country: Slovenia -- Key: Livorno Country: Italy -- Key: Lleida Country: Spain -- Key: Longxuyen Country: China -- Key: Long Beach Country: United States -- Key: Lomas de Zamora Country: Argentina -- Key: Loja Country: Ecuador -- Key: Logroo Country: Spain -- Key: Lom Country: Togo -- Key: London Country: United Kingdom -- Key: London Country: Canada -- Key: Londrina Country: Brazil -- Key: Longkou Country: China -- Key: Longjing Country: China -- Key: Longueuil Country: Canada -- Key: Louisville Country: United States -- Key: Los Mochis Country: Mexico -- Key: Los Angeles Country: United States -- Key: Longyan Country: China -- Key: Los ngeles Country: Chile -- Key: Los Teques Country: Venezuela -- Key: Loudi Country: China -- Key: Lu'an Country: China -- Key: Lowell Country: United States -- Key: Luanda Country: Angola -- Key: Magangue Country: 
+ -- Key: Maanshan Country: 
+ -- Key: Luoyang Country: China -- Key: Ludwigshafen am Rhein Country: Germany -- Key: Lucena City Country: Philippines -- Key: Lublin Country: Poland -- Key: Lubbock Country: United States -- Key: Lubumbashi Country: Democratic Republic of the Congo -- Key: Lucknow Country: India -- Key: Lucerne Country: Switzerland -- Key: Ludhiana Country: India -- Key: Lujn de Cuyo Country: Argentina -- Key: Luhansk Country: Ukraine -- Key: Luohe Country: China -- Key: Lviv Country: Ukraine -- Key: Luxembourg Country: Luxembourg -- Key: Luton Country: United Kingdom -- Key: Lusaka Country: Zambia -- Key: Lutsk Country: Ukraine -- Key: Luzhou Country: China -- Key: Luxor Country: Egypt -- Key: Luzinia Country: Brazil -- Key: Lysychansk Country: Ukraine -- Key: Lyon Country: France -- Key: Lyubertsy Country: Russia -- Key: M'Sila Country: 
+ -- Key: Machilipatnam Country: 
+ -- Key: Machakos Country: 
+ -- Key: Macae Country: 
+ -- Key: Mabalacat, Pampanga Country: 
+ -- Key: Maastricht Country: 
+ -- Key: Macau SAR Country: 
+ -- Key: Macap Country: 
+ -- Key: Macei Country: 
+ -- Key: Macheng Country: 
+ -- Key: Machala Country: 
+ -- Key: Machida Country: 
+ -- Key: Maebashi Country: 
+ -- Key: Madrid Country: 
+ -- Key: Madiun Country: 
+ -- Key: Madison, Wisconsin Country: 
+ -- Key: Madras Country: 
+ -- Key: Madurai Country: 
+ -- Key: Magadan Country: 
+ -- Key: Mag Country: 
+ -- Key: Malayer Country: 
+ -- Key: Makati City Country: 
+ -- Key: Maidstone Country: 
+ -- Key: Mahabad Country: 
+ -- Key: Magelang Country: 
+ -- Key: Magdeburg Country: 
+ -- Key: Magnitogorsk Country: 
+ -- Key: Mahesana Country: 
+ -- Key: Mahbubnagar Country: 
+ -- Key: Maicao Country: 
+ -- Key: Mainz Country: 
+ -- Key: Maiduguri Country: 
+ -- Key: Majnun Country: 
+ -- Key: Malasiqui, Pangasinan Country: 
+ -- Key: Malabo Country: 
+ -- Key: Makiivka Country: 
+ -- Key: Makhachkala Country: 
+ -- Key: Malappuram Country: 
+ -- Key: Malang Country: 
+ -- Key: Malaybalay City Country: 
+ -- Key: Malatya Country: 
+ -- Key: Manavgat Country: 
+ -- Key: Managua Country: 
+ -- Key: Malm Country: 
+ -- Key: Malita, Davao del Sur Country: 
+ -- Key: Malegaon Country: 
+ -- Key: Manado Country: 
+ -- Key: Malolos City Country: 
+ -- Key: Manaus Country: 
+ -- Key: Manama Country: 
+ -- Key: Mandya Country: 
+ -- Key: Mandalay Country: 
+ -- Key: Manchester, New Hampshire Country: 
+ -- Key: Manchester Country: 
+ -- Key: Mandaue City Country: 
+ -- Key: Mandaluyong City Country: 
+ -- Key: Mangaung Country: 
+ -- Key: Mangalore Country: 
+ -- Key: Mrida Country: 
+ -- Key: Melbourne Country: 
+ -- Key: Matar Country: 
+ -- Key: Margilan Country: 
+ -- Key: Mar del Plata Country: 
+ -- Key: Manzhouli Country: 
+ -- Key: Manizales Country: 
+ -- Key: Manisa Country: 
+ -- Key: Manila Country: 
+ -- Key: Manta Country: 
+ -- Key: Mannheim Country: 
+ -- Key: Maputo Country: 
+ -- Key: Maoming Country: 
+ -- Key: Maraqeh Country: 
+ -- Key: Maracanau Country: 
+ -- Key: Maracaibo Country: 
+ -- Key: Maraba Country: 
+ -- Key: Maradi Country: 
+ -- Key: Maracay Country: 
+ -- Key: Mardan Country: 
+ -- Key: Marawi City Country: 
+ -- Key: Marvdasht Country: 
+ -- Key: Marlia Country: 
+ -- Key: Mariupol Country: 
+ -- Key: Marilao, Bulacan Country: 
+ -- Key: Maribor Country: 
+ -- Key: Maring Country: 
+ -- Key: Mariveles, Bataan Country: 
+ -- Key: Markham Country: 
+ -- Key: Marseille Country: 
+ -- Key: Marrakech Country: 
+ -- Key: Matadi Country: 
+ -- Key: Maseru Country: 
+ -- Key: Masaya Country: 
+ -- Key: Masan Country: 
+ -- Key: Masjed Soleyman Country: 
+ -- Key: Mashhad Country: 
+ -- Key: Matanzas Country: 
+ -- Key: Matamoros, Tamaulipas Country: 
+ -- Key: Mbabane Country: 
+ -- Key: Maturn Country: 
+ -- Key: Matsumoto Country: 
+ -- Key: Matsubara Country: 
+ -- Key: Mati, Davao Oriental Country: 
+ -- Key: Mathura Country: 
+ -- Key: Matsue Country: 
+ -- Key: Matsudo Country: 
+ -- Key: Matsuyama Country: 
+ -- Key: Matsusaka Country: 
+ -- Key: Mazari Sharif Country: 
+ -- Key: Mawlamyaing(Moulmein) Country: 
+ -- Key: Maunath Bhanjan Country: 
+ -- Key: Mau Country: 
+ -- Key: Maykop Country: 
+ -- Key: Mayagez Country: 
+ -- Key: Mazyr Country: 
+ -- Key: Mazatln Country: 
+ -- Key: Medelln Country: 
+ -- Key: Mecca Country: 
+ -- Key: Mbour Country: 
+ -- Key: Mbeya Country: 
+ -- Key: Mbandaka Country: 
+ -- Key: McAllen, Texas Country: 
+ -- Key: Mbuji-Mayi Country: 
+ -- Key: Medea Country: 
+ -- Key: Medan Country: 
+ -- Key: Mejicanos Country: 
+ -- Key: Meerut Country: 
+ -- Key: Medinipur Country: 
+ -- Key: Medina Country: 
+ -- Key: Meizhou Country: 
+ -- Key: Meihekou Country: 
+ -- Key: Meknes Country: 
+ -- Key: Mekele Country: 
+ -- Key: Mlaga Country: 
+ -- Key: Michurinsk Country: 
+ -- Key: Mexico City Country: 
+ -- Key: Mersin Country: 
+ -- Key: Mendoza Country: 
+ -- Key: Memphis, Tennessee Country: 
+ -- Key: Melitopol Country: 
+ -- Key: Merca Country: 
+ -- Key: Messina Country: 
+ -- Key: Mesquite, Texas Country: 
+ -- Key: Mesa, Arizona Country: 
+ -- Key: Messad Country: 
+ -- Key: Metz Country: 
+ -- Key: Metepec Country: 
+ -- Key: Mexicali Country: 
+ -- Key: Miami Gardens, Florida Country: 
+ -- Key: Meycauayan City Country: 
+ -- Key: Mexico, Pampanga Country: 
+ -- Key: Mezhdurechensk Country: 
+ -- Key: Mianyang Country: 
+ -- Key: Miami, Florida Country: 
+ -- Key: Miass Country: 
+ -- Key: Mishan Country: 
+ -- Key: Minatitln Country: 
+ -- Key: Milan Country: 
+ -- Key: Midsayap, Cotabato Country: 
+ -- Key: Middlesbrough Country: 
+ -- Key: Milagro Country: 
+ -- Key: Miluo Country: 
+ -- Key: Milton Keynes Country: 
+ -- Key: Milwaukee, Wisconsin Country: 
+ -- Key: Minsk Country: 
+ -- Key: Minneapolis, Minnesota Country: 
+ -- Key: Minglanilla, Cebu Country: 
+ -- Key: Minoh Country: 
+ -- Key: Mirzapur-cum-Vindhyachal Country: 
+ -- Key: Mirpur Khas Country: 
+ -- Key: Misato Country: 
+ -- Key: Mississauga Country: 
+ -- Key: Miskolc Country: 
+ -- Key: Mishima Country: 
+ -- Key: Misrata Country: 
+ -- Key: Mito Country: 
+ -- Key: Mitaka Country: 
+ -- Key: Miyakonojo Country: 
+ -- Key: Miyazaki Country: 
+ -- Key: Montreal Country: 
+ -- Key: Moga Country: 
+ -- Key: Modena Country: 
+ -- Key: Mnchengladbach Country: 
+ -- Key: Mlheim an der Ruhr Country: 
+ -- Key: Mobile, Alabama Country: 
+ -- Key: Mnster Country: 
+ -- Key: Modinagar Country: 
+ -- Key: Modesto, California Country: 
+ -- Key: Moers Country: 
+ -- Key: Moncton Country: 
+ -- Key: Mogilev (Mahilyow) Country: 
+ -- Key: Mogi Guau Country: 
+ -- Key: Mogadishu Country: 
+ -- Key: Mogi das Cruzes Country: 
+ -- Key: Mombasa Country: 
+ -- Key: Mogpo Country: 
+ -- Key: Monclova Country: 
+ -- Key: Montes Claros Country: 
+ -- Key: Montera Country: 
+ -- Key: Monrovia Country: 
+ -- Key: Monterrey Country: 
+ -- Key: Montgomery, Alabama Country: 
+ -- Key: Montevideo Country: 
+ -- Key: Montpellier Country: 
+ -- Key: Moreno Valley, California Country: 
+ -- Key: Moradabad Country: 
+ -- Key: Monywa Country: 
+ -- Key: Montreuil Country: 
+ -- Key: Monza Country: 
+ -- Key: Morelia Country: 
+ -- Key: Moratuwa Country: 
+ -- Key: Morena Country: 
+ -- Key: Morvi Country: 
+ -- Key: Morioka Country: 
+ -- Key: Moriguchi Country: 
+ -- Key: Morogoro Country: 
+ -- Key: Mossor Country: 
+ -- Key: Moscow Country: 
+ -- Key: Mostar Country: 
+ -- Key: Mostaganem Country: 
+ -- Key: Mosul Country: 
+ -- Key: Neijiang Country: 
+ -- Key: Nakhon Pathom Country: 
+ -- Key: Muzaffarpur Country: 
+ -- Key: Murfreesboro, Tennessee Country: 
+ -- Key: Munger Country: 
+ -- Key: Mufulira Country: 
+ -- Key: Mstoles Country: 
+ -- Key: Mrida, Venezuela Country: 
+ -- Key: Mudanjiang Country: 
+ -- Key: Multan Country: 
+ -- Key: Mulhouse Country: 
+ -- Key: Mumbai Country: 
+ -- Key: Muntinlupa City Country: 
+ -- Key: Munich Country: 
+ -- Key: Murcia Country: 
+ -- Key: Mushin Country: 
+ -- Key: Muroran Country: 
+ -- Key: Murmansk Country: 
+ -- Key: Muridke Country: 
+ -- Key: Murom Country: 
+ -- Key: Musashino Country: 
+ -- Key: Murwara Country: 
+ -- Key: Muscat Country: 
+ -- Key: Muzaffargharh Country: 
+ -- Key: Mutare Country: 
+ -- Key: Muzaffarnagar Country: 
+ -- Key: Nagaoka Country: 
+ -- Key: Mytishchi Country: 
+ -- Key: Mysore Country: 
+ -- Key: Mykolaiv Country: 
+ -- Key: Mwanza Country: 
+ -- Key: Mymensingh Country: 
+ -- Key: Mytho Country: 
+ -- Key: Naberezhnye Chelny Country: 
+ -- Key: NOIDA Country: 
+ -- Key: N'djamena Country: 
+ -- Key: Nabadwip Country: 
+ -- Key: Naga City Country: 
+ -- Key: Nadiad Country: 
+ -- Key: Nagano Country: 
+ -- Key: Nairobi Country: 
+ -- Key: Nagoya Country: 
+ -- Key: Nagasaki Country: 
+ -- Key: Nagareyama Country: 
+ -- Key: Nagercoil Country: 
+ -- Key: Naha Country: 
+ -- Key: Nagpur Country: 
+ -- Key: Naihati Country: 
+ -- Key: Najafabad Country: 
+ -- Key: Najaf Country: 
+ -- Key: Nakhodka Country: 
+ -- Key: Napier-Hastings Country: 
+ -- Key: Nanchong Country: 
+ -- Key: Nampho Country: 
+ -- Key: Nakuru Country: 
+ -- Key: Nakhon Sawan Country: 
+ -- Key: Nakhon Ratchasima Country: 
+ -- Key: Nakhon Si Thammarat Country: 
+ -- Key: Namangan Country: 
+ -- Key: Nalchik Country: 
+ -- Key: Namdinh Country: 
+ -- Key: Namur Country: 
+ -- Key: Nampula Country: 
+ -- Key: Nanchang Country: 
+ -- Key: Nantes Country: 
+ -- Key: Nangong Country: 
+ -- Key: Nanded Country: 
+ -- Key: Nancy Country: 
+ -- Key: Nandyal Country: 
+ -- Key: Nanning Country: 
+ -- Key: Nanjing Country: 
+ -- Key: Nanping Country: 
+ -- Key: Nanyang Country: 
+ -- Key: Nantong Country: 
+ -- Key: Naperville, Illinois Country: 
+ -- Key: Navapolatsk Country: 
+ -- Key: Nassau Country: 
+ -- Key: Narayanganj Country: 
+ -- Key: Nara Country: 
+ -- Key: Naples Country: 
+ -- Key: Narashino Country: 
+ -- Key: Nashik Country: 
+ -- Key: Nasariya Country: 
+ -- Key: Nashville-Davidson, Tennessee Country: 
+ -- Key: Natal Country: 
+ -- Key: Nasugbu, Batangas Country: 
+ -- Key: Naucalpan Country: 
+ -- Key: Nazran Country: 
+ -- Key: Nawabganj Country: 
+ -- Key: Navotas City Country: 
+ -- Key: Navoi Country: 
+ -- Key: Navsari Country: 
+ -- Key: Nazareth Country: 
+ -- Key: Nawabshah Country: 
+ -- Key: Nazilli Country: 
+ -- Key: Neftekamsk Country: 
+ -- Key: Ndola Country: 
+ -- Key: Nefteyugansk Country: 
+ -- Key: Noginsk Country: 
+ -- Key: Nicosia Country: 
+ -- Key: New York, New York Country: 
+ -- Key: New Bombay Country: 
+ -- Key: Netzahualcyotl Country: 
+ -- Key: Nellore Country: 
+ -- Key: Neiva Country: 
+ -- Key: Netanya Country: 
+ -- Key: Neuss Country: 
+ -- Key: Neuqun Country: 
+ -- Key: Nevinnomyssk Country: 
+ -- Key: New Haven, Connecticut Country: 
+ -- Key: New Delhi Country: 
+ -- Key: New Orleans, Louisiana Country: 
+ -- Key: Neyveli Country: 
+ -- Key: Newcastle upon Tyne Country: 
+ -- Key: Newcastle Country: 
+ -- Key: Newark, New Jersey Country: 
+ -- Key: Newcastle Country: South Africa -- Key: Neyagawa Country: 
+ -- Key: Newport Country: 
+ -- Key: Neyshabur Country: 
+ -- Key: Niamey Country: 
+ -- Key: Nhatrang Country: 
+ -- Key: Ni Country: 
+ -- Key: Nice Country: 
+ -- Key: Nishio Country: 
+ -- Key: Ningbo Country: 
+ -- Key: Nijmegen Country: 
+ -- Key: Niihama Country: 
+ -- Key: Niigata Country: 
+ -- Key: Niiza Country: 
+ -- Key: Nilpolis Country: 
+ -- Key: Nikopol Country: 
+ -- Key: Nishinomiya Country: 
+ -- Key: Ningde Country: 
+ -- Key: Nmes Country: 
+ -- Key: Nizhenvartovsk Country: 
+ -- Key: Nizamabad Country: 
+ -- Key: Niteri Country: 
+ -- Key: Nizhny Novgorod Country: 
+ -- Key: Nizhnekamsk Country: 
+ -- Key: Nizhny Tagil Country: 
+ -- Key: Noda Country: 
+ -- Key: Nobeoka Country: 
+ -- Key: Nogales Country: 
+ -- Key: Novomoskovsk Country: 
+ -- Key: Nottingham Country: 
+ -- Key: Norwalk, California Country: 
+ -- Key: Norrkping Country: 
+ -- Key: Norilsk Country: 
+ -- Key: Nonthaburi Country: 
+ -- Key: Norman, Oklahoma Country: 
+ -- Key: Northampton Country: 
+ -- Key: North Las Vegas, Nevada Country: 
+ -- Key: Northshore Country: 
+ -- Key: Norzagaray, Bulacan Country: 
+ -- Key: Norwich Country: 
+ -- Key: Nossa Senhora do Socorro Country: 
+ -- Key: Novocherkassk Country: 
+ -- Key: Novara Country: 
+ -- Key: Nova Friburgo Country: 
+ -- Key: Nouakchott Country: 
+ -- Key: Nova Iguau Country: 
+ -- Key: Novocheboksarsk Country: 
+ -- Key: Novi Sad Country: 
+ -- Key: Novokuznetsk Country: 
+ -- Key: Novokuybyshevsk Country: 
+ -- Key: Nukualofa Country: 
+ -- Key: Noyabrsk Country: 
+ -- Key: Novosibirsk Country: 
+ -- Key: Novoshakhtinsk Country: 
+ -- Key: Novorossiysk Country: 
+ -- Key: Novy Urengoy Country: 
+ -- Key: Novotroitsk Country: 
+ -- Key: Nuevo Laredo Country: 
+ -- Key: Nueva San Salvador Country: 
+ -- Key: Oakville Country: 
+ -- Key: Nvo Hamburgo Country: 
+ -- Key: Numazu Country: 
+ -- Key: Nukus Country: 
+ -- Key: Nuremberg Country: 
+ -- Key: Nyregyhza Country: 
+ -- Key: Nyala, Sudan Country: 
+ -- Key: Oakland, California Country: 
+ -- Key: Oberhausen Country: 
+ -- Key: Oaxaca de Jurez Country: 
+ -- Key: Obihiro Country: 
+ -- Key: Springfield, Massachusetts Country: 
+ -- Key: Ruian Country: 
+ -- Key: Ponce Country: 
+ -- Key: Palmira Country: 
+ -- Key: Oryol Country: 
+ -- Key: Omdurman Country: 
+ -- Key: Oldenburg Country: 
+ -- Key: Offenbach am Main Country: 
+ -- Key: Odessa Country: 
+ -- Key: Odawara Country: 
+ -- Key: Oceanside, California Country: 
+ -- Key: Odense Country: 
+ -- Key: Odintsovo Country: 
+ -- Key: Okazaki Country: 
+ -- Key: Okara Country: 
+ -- Key: Ogbomosho Country: 
+ -- Key: Okayama Country: 
+ -- Key: Oklahoma City, Oklahoma Country: 
+ -- Key: Okinawa Country: 
+ -- Key: Oktyabrsky Country: 
+ -- Key: Olomouc Country: 
+ -- Key: Olinda Country: 
+ -- Key: Oldham Country: 
+ -- Key: Olmaliq Country: 
+ -- Key: Olsztyn Country: 
+ -- Key: Olongapo City Country: 
+ -- Key: Omaha, Nebraska Country: 
+ -- Key: Orizaba Country: 
+ -- Key: Or Yehuda Country: 
+ -- Key: Ongole Country: 
+ -- Key: Omsk Country: 
+ -- Key: Omiya Country: 
+ -- Key: Ondal Country: 
+ -- Key: Ontario, California Country: 
+ -- Key: Onitsha Country: 
+ -- Key: Opole Country: 
+ -- Key: Ordos City Country: 
+ -- Key: Oran Country: 
+ -- Key: Oradea Country: 
+ -- Key: Orange, California Country: 
+ -- Key: Orekhovo-Zuyevo Country: 
+ -- Key: Ordu Country: 
+ -- Key: Orenburg Country: 
+ -- Key: Orsha Country: 
+ -- Key: Orlans Country: 
+ -- Key: Orlando, Florida Country: 
+ -- Key: Ormoc City Country: 
+ -- Key: Orumiyeh Country: 
+ -- Key: Orsk Country: 
+ -- Key: Oruro Country: 
+ -- Key: Oxnard, California Country: 
+ -- Key: Ouagadougou Country: 
+ -- Key: Osmaniye Country: 
+ -- Key: Oshawa Country: 
+ -- Key: Osasco Country: 
+ -- Key: Osaka Country: 
+ -- Key: Osh Country: 
+ -- Key: Osijek Country: 
+ -- Key: Oshogbo Country: 
+ -- Key: Oslo Country: 
+ -- Key: Ota Country: 
+ -- Key: Osorno Country: 
+ -- Key: Osnabrck Country: 
+ -- Key: Ostrava Country: 
+ -- Key: Otsu Country: 
+ -- Key: Otaru Country: 
+ -- Key: Ottawa Country: 
+ -- Key: Ourense Country: 
+ -- Key: Oujda Country: 
+ -- Key: Ouargla Country: 
+ -- Key: Oulu Country: 
+ -- Key: Oviedo Country: 
+ -- Key: Overland Park, Kansas Country: 
+ -- Key: Oxford Country: 
+ -- Key: Palakkad Country: 
+ -- Key: Paderborn Country: 
+ -- Key: Paarl Country: 
+ -- Key: Oyo Country: 
+ -- Key: Oyama Country: 
+ -- Key: Ozamiz City Country: 
+ -- Key: Pachuca Country: 
+ -- Key: Pabna Country: 
+ -- Key: Padang Country: 
+ -- Key: Paita Country: 
+ -- Key: Pagadian City Country: 
+ -- Key: Padua Country: 
+ -- Key: Pago Pago Country: 
+ -- Key: Pakan Baru Country: 
+ -- Key: Pakalongan Country: 
+ -- Key: Pakpattan Country: 
+ -- Key: Pali Country: 
+ -- Key: Palembang Country: 
+ -- Key: Palangkaraya Country: 
+ -- Key: Palermo Country: 
+ -- Key: Palmas Country: 
+ -- Key: Palma de Mallorca Country: 
+ -- Key: Palmdale, California Country: 
+ -- Key: Petare Country: 
+ -- Key: Patos de Minas Country: 
+ -- Key: Paranagu Country: 
+ -- Key: Panipat Country: 
+ -- Key: Panama Country: 
+ -- Key: Pamplona Country: 
+ -- Key: Palu Country: 
+ -- Key: Panabo City Country: 
+ -- Key: Panevys Country: 
+ -- Key: Panevo Country: 
+ -- Key: Panihati Country: 
+ -- Key: Paradise, Nevada Country: 
+ -- Key: Panzhihua Country: 
+ -- Key: Panjin Country: 
+ -- Key: Papeete Country: 
+ -- Key: Paramaribo Country: 
+ -- Key: Parakou Country: 
+ -- Key: Paran Country: 
+ -- Key: Paris Country: 
+ -- Key: Parbhani Country: 
+ -- Key: Parang, Maguindanao Country: 
+ -- Key: Pardubice Country: 
+ -- Key: Pasadena Country: 
+ -- Key: Parla Country: 
+ -- Key: Patna Country: 
+ -- Key: Perpignan Country: 
+ -- Key: Pematang Siantar Country: 
+ -- Key: Pavlodar Country: 
+ -- Key: Patratu Country: 
+ -- Key: Patras Country: 
+ -- Key: Paulista Country: 
+ -- Key: Pcs Country: 
+ -- Key: Pavlohrad Country: 
+ -- Key: Pelotas Country: 
+ -- Key: Peoria, Illinois Country: 
+ -- Key: Penza Country: 
+ -- Key: Pembroke Pines, Florida Country: 
+ -- Key: Peoria, Arizona Country: 
+ -- Key: Peristeri Country: 
+ -- Key: Pereira Country: 
+ -- Key: Perm Country: 
+ -- Key: Pescara Country: 
+ -- Key: Perugia Country: 
+ -- Key: Perth Country: 
+ -- Key: Pervouralsk Country: 
+ -- Key: Petah Tikva Country: 
+ -- Key: Peshawar Country: 
+ -- Key: Petaling Jaya Country: 
+ -- Key: Pinhais Country: 
+ -- Key: Pikine Country: 
+ -- Key: Philadelphia, Pennsylvania Country: 
+ -- Key: Petropavlovsk-Kamchatsky Country: 
+ -- Key: Petrolina Country: 
+ -- Key: Peterborough Country: 
+ -- Key: Petropavl Country: 
+ -- Key: Petrpolis Country: 
+ -- Key: Petrozavodsk Country: 
+ -- Key: Pforzheim Country: 
+ -- Key: Phusro Country: 
+ -- Key: Phoenix, Arizona Country: 
+ -- Key: Phnom Penh Country: 
+ -- Key: Phuket Country: 
+ -- Key: Piatra Neam Country: 
+ -- Key: Phyongsong Country: 
+ -- Key: Pietermaritzburg Country: 
+ -- Key: Pingdingshan Country: 
+ -- Key: Pinar del Ro Country: 
+ -- Key: Pilibhit Country: 
+ -- Key: Pindamonhangaba Country: 
+ -- Key: Pingliang Country: 
+ -- Key: Pingdu Country: 
+ -- Key: Pingxiang Country: 
+ -- Key: Podgorica Country: 
+ -- Key: Piura Country: 
+ -- Key: Piracicaba Country: 
+ -- Key: Pinsk Country: 
+ -- Key: Pir Mahal Country: 
+ -- Key: Piteti Country: 
+ -- Key: Piraeus Country: 
+ -- Key: Pittsburgh, Pennsylvania Country: 
+ -- Key: Plovdiv Country: 
+ -- Key: Pleven Country: 
+ -- Key: Plano, Texas Country: 
+ -- Key: Ploieti Country: 
+ -- Key: Plze Country: 
+ -- Key: Plymouth Country: 
+ -- Key: Pock Country: 
+ -- Key: Pollachi Country: 
+ -- Key: Pohang Country: 
+ -- Key: Podolsk Country: 
+ -- Key: Pointe-Noire Country: 
+ -- Key: Poltava Country: 
+ -- Key: Polomolok, South Cotabato Country: 
+ -- Key: Pomona, California Country: 
+ -- Key: Qujing Country: 
+ -- Key: Pueblo, Colorado Country: 
+ -- Key: Posadas Country: 
+ -- Key: Portland, Oregon Country: 
+ -- Key: Porbandar Country: 
+ -- Key: Poole Country: 
+ -- Key: Ponta Grossa Country: 
+ -- Key: Pondicherry Country: 
+ -- Key: Pontianak Country: 
+ -- Key: Popayn Country: 
+ -- Key: Poos de Caldas Country: 
+ -- Key: Porac, Pampanga Country: 
+ -- Key: Port Moresby Country: 
+ -- Key: Port Harcourt Country: 
+ -- Key: Port Elizabeth Country: 
+ -- Key: Port Louis Country: 
+ -- Key: Port Sudan Country: 
+ -- Key: Port Said Country: 
+ -- Key: Port-au-Prince Country: 
+ -- Key: Porto Novo Country: 
+ -- Key: Porto Alegre Country: 
+ -- Key: Porto Country: 
+ -- Key: Portoviejo Country: 
+ -- Key: Porto Velho Country: 
+ -- Key: Portsmouth Country: 
+ -- Key: Proddatur Country: 
+ -- Key: Praia Grande Country: 
+ -- Key: Poza Rica de Hidalgo Country: 
+ -- Key: Potsdam Country: 
+ -- Key: Potos Country: 
+ -- Key: Pouso Alegre Country: 
+ -- Key: Prague Country: 
+ -- Key: Pozna Country: 
+ -- Key: Praia Country: 
+ -- Key: Pretoria Country: 
+ -- Key: Presidente Prudente Country: 
+ -- Key: Prato Country: 
+ -- Key: Preston Country: 
+ -- Key: Pritina Country: 
+ -- Key: Prijedor Country: 
+ -- Key: Probolinggo Country: 
+ -- Key: Pskov Country: 
+ -- Key: Providence, Rhode Island Country: 
+ -- Key: Prokopyevsk Country: 
+ -- Key: Provo, Utah Country: 
+ -- Key: Puchon,Bucheon Country: 
+ -- Key: Pucallpa Country: 
+ -- Key: Puebla de Zaragoza Country: 
+ -- Key: Qidong Country: 
+ -- Key: Pyatigorsk Country: 
+ -- Key: Punta Arenas Country: 
+ -- Key: Puerto Princesa City Country: 
+ -- Key: Puerto Cabello Country: 
+ -- Key: Puente Alto Country: 
+ -- Key: Puerto Montt Country: 
+ -- Key: Pune Country: 
+ -- Key: Puli Khumri Country: 
+ -- Key: Puno Country: 
+ -- Key: Pusan,Busan Country: 
+ -- Key: Puri Country: 
+ -- Key: Punto Fijo Country: 
+ -- Key: Purnia Country: 
+ -- Key: Puwan,Suwon Country: 
+ -- Key: Putian Country: 
+ -- Key: Puyang Country: 
+ -- Key: Qarchak Country: 
+ -- Key: Qa'em Shahr Country: 
+ -- Key: Pyongyang Country: 
+ -- Key: Qamishli Country: 
+ -- Key: Qazvin Country: 
+ -- Key: Qasemabad,Islam Shahr Country: 
+ -- Key: Qianjiang Country: 
+ -- Key: Quanzhou Country: 
+ -- Key: Qinzhou Country: 
+ -- Key: Qingyuan Country: 
+ -- Key: Qingtongxia Country: 
+ -- Key: Qingdao Country: 
+ -- Key: Qingyang Country: 
+ -- Key: Qinhuangdao Country: 
+ -- Key: Qingzhou Country: 
+ -- Key: Qinyang Country: 
+ -- Key: Qitaihe Country: 
+ -- Key: Qiqihaer Country: 
+ -- Key: Qom Country: 
+ -- Key: Qods Country: 
+ -- Key: Quetta Country: 
+ -- Key: Queimados Country: 
+ -- Key: Quebec City Country: 
+ -- Key: Quertaro Country: 
+ -- Key: Qui Nhon Country: 
+ -- Key: Quezon City Country: 
+ -- Key: Quevedo Country: 
+ -- Key: Qufu Country: 
+ -- Key: Quilpu Country: 
+ -- Key: Quilmes Country: 
+ -- Key: Quito Country: 
+ -- Key: Rewa Country: 
+ -- Key: Rangpur Country: 
+ -- Key: Ramadi Country: 
+ -- Key: Raiganj Country: 
+ -- Key: Radom Country: 
+ -- Key: Rabat Country: 
+ -- Key: Quzhou Country: 
+ -- Key: Rach Gia Country: 
+ -- Key: Rahim Yar Khan Country: 
+ -- Key: Rae Bareli Country: 
+ -- Key: Raichur Country: 
+ -- Key: Rajkot Country: 
+ -- Key: Rajahmundry Country: 
+ -- Key: Raipur Country: 
+ -- Key: Rajapalaiyam Country: 
+ -- Key: Rajshahi Country: 
+ -- Key: Rajnandgaon Country: 
+ -- Key: Raleigh, North Carolina Country: 
+ -- Key: Ranaghat Country: 
+ -- Key: Ramat Gan Country: 
+ -- Key: Ramagundam Country: 
+ -- Key: Rampur Country: 
+ -- Key: Ranchi Country: 
+ -- Key: Rancagua Country: 
+ -- Key: Rancho Cucamonga, California Country: 
+ -- Key: Relizane Country: 
+ -- Key: Reading Country: 
+ -- Key: Raurkela Country: 
+ -- Key: Rasht Country: 
+ -- Key: Raniganj Country: 
+ -- Key: Ratlam Country: 
+ -- Key: Rawalpindi Country: 
+ -- Key: Ravenna Country: 
+ -- Key: Rayong Country: 
+ -- Key: Reggio Calabria Country: 
+ -- Key: Recklinghausen Country: 
+ -- Key: Recife Country: 
+ -- Key: Regensburg Country: 
+ -- Key: Rehovot Country: 
+ -- Key: Regina Country: 
+ -- Key: Reims Country: 
+ -- Key: Renqiu Country: 
+ -- Key: Rennes Country: 
+ -- Key: Remscheid Country: 
+ -- Key: Reno, Nevada Country: 
+ -- Key: Resistencia Country: 
+ -- Key: Resende Country: 
+ -- Key: Reutlingen Country: 
+ -- Key: Rivne Country: 
+ -- Key: Rio Cuarto Country: 
+ -- Key: Richmond Hill Country: 
+ -- Key: Ribeiro Pires Country: 
+ -- Key: Reynosa Country: 
+ -- Key: Reykjavk Country: 
+ -- Key: Ribeiro das Neves Country: 
+ -- Key: Ribeiro Preto Country: 
+ -- Key: Richmond Country: 
+ -- Key: Rimini Country: 
+ -- Key: Riga Country: 
+ -- Key: Richmond, Virginia Country: 
+ -- Key: Rijeka Country: 
+ -- Key: Rio Claro Country: 
+ -- Key: Rio Branco Country: 
+ -- Key: Rio de Janeiro Country: 
+ -- Key: Rio Grande Country: 
+ -- Key: Rio Verde Country: 
+ -- Key: Rishon LeZion Country: 
+ -- Key: Riobamba Country: 
+ -- Key: Riverside, California Country: 
+ -- Key: Rotherham Country: 
+ -- Key: Rohtak Country: 
+ -- Key: Rochester, Minnesota Country: 
+ -- Key: Rizhao Country: 
+ -- Key: Riyadh Country: 
+ -- Key: Rmnicu Vlcea Country: 
+ -- Key: Rockford, Illinois Country: 
+ -- Key: Rochester, New York Country: 
+ -- Key: Rodriguez (Montalban), Rizal Country: 
+ -- Key: Roodepoort Country: 
+ -- Key: Rondonpolis Country: 
+ -- Key: Rome Country: 
+ -- Key: Rongcheng Country: 
+ -- Key: Rostock Country: 
+ -- Key: Rosario Country: 
+ -- Key: Rostov-on-Don Country: 
+ -- Key: Roxas City Country: 
+ -- Key: Rouen Country: 
+ -- Key: Rotterdam Country: 
+ -- Key: Rousse Country: 
+ -- Key: Ruda lska Country: 
+ -- Key: Rubtsovsk Country: 
+ -- Key: Rudni Country: 
+ -- Key: Serampore Country: 
+ -- Key: San Sebastin Country: 
+ -- Key: Salzgitter Country: 
+ -- Key: Saida Country: 
+ -- Key: Sabra Country: 
+ -- Key: Rzeszw Country: 
+ -- Key: Ruzhou Country: 
+ -- Key: Russiefa Country: 
+ -- Key: Ruichang Country: 
+ -- Key: Rustavi Country: 
+ -- Key: Rybinsk Country: 
+ -- Key: Ryazan Country: 
+ -- Key: Rybnik Country: 
+ -- Key: Saarbrcken Country: 
+ -- Key: Saanich Country: 
+ -- Key: Sabadell Country: 
+ -- Key: Sabha Country: 
+ -- Key: Safi Country: 
+ -- Key: Sacramento, California Country: 
+ -- Key: Sabzewar Country: 
+ -- Key: Sadiqabad Country: 
+ -- Key: Sagay City Country: 
+ -- Key: Sagamihara Country: 
+ -- Key: Saga Country: 
+ -- Key: Sagar Country: 
+ -- Key: Saharanpur Country: 
+ -- Key: Saguenay Country: 
+ -- Key: Sahiwal Country: 
+ -- Key: Salerno Country: 
+ -- Key: Sakai, Osaka Country: 
+ -- Key: Saint Petersburg Country: 
+ -- Key: Saint John Country: 
+ -- Key: Saidpur Country: 
+ -- Key: Saint Louis Country: 
+ -- Key: Saint-Paul Country: 
+ -- Key: Saint-Denis Country: 
+ -- Key: Saint-tienne Country: 
+ -- Key: Salamanca Country: 
+ -- Key: Sakura, Chiba Country: 
+ -- Key: Sakata Country: 
+ -- Key: Sal Country: 
+ -- Key: Salem Country: 
+ -- Key: Salavat Country: 
+ -- Key: Salem, Oregon Country: 
+ -- Key: Salta Country: 
+ -- Key: Salinas, California Country: 
+ -- Key: Salihorsk Country: 
+ -- Key: Salt Lake City, Utah Country: 
+ -- Key: Salvador Country: 
+ -- Key: Saltillo Country: 
+ -- Key: Salzburg Country: 
+ -- Key: San Jose, California Country: 
+ -- Key: San Fernando City, La Union Country: 
+ -- Key: San Bernardino, California Country: 
+ -- Key: Sambalpur Country: 
+ -- Key: Samarinda Country: 
+ -- Key: Samara Country: 
+ -- Key: Samarkand Country: 
+ -- Key: Samsun Country: 
+ -- Key: Sambhal Country: 
+ -- Key: San Antonio, Texas Country: 
+ -- Key: San Carlos City, Pangasinan Country: 
+ -- Key: San Buenaventura, California Country: 
+ -- Key: San Bernardo Country: 
+ -- Key: San Carlos City, Negros Occidental Country: 
+ -- Key: San Cristbal de Las Casas Country: 
+ -- Key: San Cristbal Country: 
+ -- Key: San Diego, California Country: 
+ -- Key: San Francisco, California Country: 
+ -- Key: San Fernando del Valle de Catamarca Country: 
+ -- Key: San Fernando City, Pampanga Country: 
+ -- Key: San Francisco Coacalco Country: 
+ -- Key: San Jose City, Nueva Ecija Country: 
+ -- Key: San Jos Country: 
+ -- Key: San Jose del Monte City Country: 
+ -- Key: San Nicols de los Garzas Country: 
+ -- Key: San Luis Potos Country: 
+ -- Key: San Juan, Argentina Country: 
+ -- Key: San Jose, Occidental Mindoro Country: 
+ -- Key: San Juan City, Metro Manila Country: 
+ -- Key: San Lorenzo Country: 
+ -- Key: San Juan, Puerto Rico Country: 
+ -- Key: San Luis Country: 
+ -- Key: San Miguel de Tucumn Country: 
+ -- Key: San Mateo, Rizal Country: 
+ -- Key: San Martin Country: 
+ -- Key: San Miguel Country: 
+ -- Key: San Miguelito Country: 
+ -- Key: San Miguel, Bulacan Country: 
+ -- Key: San Nicols Country: 
+ -- Key: San Pedro, Laguna Country: 
+ -- Key: San Pedro Sula Country: 
+ -- Key: San Pablo City Country: 
+ -- Key: San Pedro de Macoris Country: 
+ -- Key: San Salvador Country: 
+ -- Key: San Rafael Country: 
+ -- Key: San Salvador de Jujuy Country: 
+ -- Key: Santo Domingo de los Colorados Country: 
+ -- Key: Santa Maria, California Country: 
+ -- Key: Santa Cruz de la Sierra Country: 
+ -- Key: Sanming Country: 
+ -- Key: Sanda Country: 
+ -- Key: Sanandaj Country: 
+ -- Key: Sana'a Country: 
+ -- Key: Sancti Spritus Country: 
+ -- Key: Sangli Country: 
+ -- Key: Sandakan Country: 
+ -- Key: Sanmenxia Country: 
+ -- Key: Santa Clara, California Country: 
+ -- Key: Santa Brbara d'Oeste Country: 
+ -- Key: Santa Ana, California Country: 
+ -- Key: Santa Clara Country: 
+ -- Key: Santa Coloma de Gramanet Country: 
+ -- Key: Santa Clarita, California Country: 
+ -- Key: Santa Cruz de Tenerife Country: 
+ -- Key: Santa Fe de Bogot Country: 
+ -- Key: Santa Cruz, Laguna Country: 
+ -- Key: Santa Cruz do Sul Country: 
+ -- Key: Santa Fe Country: 
+ -- Key: Santa Luzia, Minas Gerais Country: 
+ -- Key: Santa Maria, Bulacan Country: 
+ -- Key: Santiago City Country: 
+ -- Key: Santa Rosa, California Country: 
+ -- Key: Santa Rita Country: 
+ -- Key: Santa Marta Country: 
+ -- Key: Santa Rosa City Country: 
+ -- Key: Santarm, Brazil Country: 
+ -- Key: Santander Country: 
+ -- Key: Santiago Country: 
+ -- Key: Santipur Country: 
+ -- Key: Santiago de los Caballeros Country: 
+ -- Key: Santiago de Cuba Country: 
+ -- Key: Santiago del Estero Country: 
+ -- Key: Santo Andr Country: 
+ -- Key: Santo Domingo Country: 
+ -- Key: Sayama Country: 
+ -- Key: Sarapul Country: 
+ -- Key: Saqez Country: 
+ -- Key: Sapporo Country: 
+ -- Key: Santos Country: 
+ -- Key: Santo Tomas, Batangas Country: 
+ -- Key: Sanya Country: 
+ -- Key: Sapucaia do Sul Country: 
+ -- Key: Sarajevo Country: 
+ -- Key: Saraburi Country: 
+ -- Key: Sar-e Pol Country: 
+ -- Key: Saransk Country: 
+ -- Key: Sasebo Country: 
+ -- Key: Sariaya, Quezon Country: 
+ -- Key: Sargodha Country: 
+ -- Key: Saratov Country: 
+ -- Key: Sari Country: 
+ -- Key: Sariwon Country: 
+ -- Key: Satu Mare Country: 
+ -- Key: Sassari Country: 
+ -- Key: Saskatoon Country: 
+ -- Key: Satna Country: 
+ -- Key: Savannah, Georgia Country: 
+ -- Key: Seleyang Baru Country: 
+ -- Key: Seattle Country: 
+ -- Key: Scottsdale, Arizona Country: 
+ -- Key: Schwerin Country: 
+ -- Key: Seam Reab Country: 
+ -- Key: Sekondi-Takoradi Country: 
+ -- Key: Seongnam Country: 
+ -- Key: Semipalatinsk Country: 
+ -- Key: Semarang Country: 
+ -- Key: Sendai Country: 
+ -- Key: Seoul Country: 
+ -- Key: Shuangcheng Country: 
+ -- Key: Shenyang Country: 
+ -- Key: Shangzhi Country: 
+ -- Key: Seville Country: 
+ -- Key: Sete Lagoas Country: 
+ -- Key: Serra Country: 
+ -- Key: Sergiyev Posad Country: 
+ -- Key: Seremban Country: 
+ -- Key: Serpukhov Country: 
+ -- Key: Sertaozinho Country: 
+ -- Key: Severodvinsk Country: 
+ -- Key: Seto Country: 
+ -- Key: Setif Country: 
+ -- Key: Sevastopol Country: 
+ -- Key: Seversk Country: 
+ -- Key: Shahrud Country: 
+ -- Key: Shahjahanpur Country: 
+ -- Key: Shah Alam Country: 
+ -- Key: Sfax Country: 
+ -- Key: Shahe Country: 
+ -- Key: Shahrekord Country: 
+ -- Key: Shangqiu Country: 
+ -- Key: Shanghai Country: 
+ -- Key: Shakhty Country: 
+ -- Key: Shangluo Country: 
+ -- Key: Shangrao Country: 
+ -- Key: Shaoyang Country: 
+ -- Key: Shaowu Country: 
+ -- Key: Shanwei Country: 
+ -- Key: Shantou Country: 
+ -- Key: Shaoguan Country: 
+ -- Key: Shaoxing Country: 
+ -- Key: Sheffield Country: 
+ -- Key: Shchyolkovo Country: 
+ -- Key: Sharjah Country: 
+ -- Key: Sheberghan Country: 
+ -- Key: Sheikhu Pura Country: 
+ -- Key: Shimoga Country: 
+ -- Key: Shihung Country: 
+ -- Key: Shibin el-Kom Country: 
+ -- Key: Sheopur Country: 
+ -- Key: Shenzhen Country: 
+ -- Key: Sherbrooke Country: 
+ -- Key: Shihezi Country: 
+ -- Key: Shimizu Country: 
+ -- Key: Shikarpur Country: 
+ -- Key: Shijiazhuang Country: 
+ -- Key: Shillong Country: 
+ -- Key: Shimla Country: 
+ -- Key: Shivpuri Country: 
+ -- Key: Shishi City Country: 
+ -- Key: Shinyanga Country: 
+ -- Key: Shimonoseki Country: 
+ -- Key: Shiraz Country: 
+ -- Key: Shishou Country: 
+ -- Key: Shkodr Country: 
+ -- Key: Shizuishan Country: 
+ -- Key: Shiyan Country: 
+ -- Key: Shizuoka Country: 
+ -- Key: Shreveport, Louisiana Country: 
+ -- Key: So Joo de Meriti Country: 
+ -- Key: Sirjan Country: 
+ -- Key: Sikar Country: 
+ -- Key: Sibiu Country: 
+ -- Key: Shymkent Country: 
+ -- Key: Shubra al Khaymah Country: 
+ -- Key: Shuangyashan Country: 
+ -- Key: Shuozhou Country: 
+ -- Key: Sialkote Country: 
+ -- Key: Sieverodonetsk Country: 
+ -- Key: Sidi-bel-Abbs Country: 
+ -- Key: Sibu Country: 
+ -- Key: Siegen Country: 
+ -- Key: Siirt Country: 
+ -- Key: Simi Valley, California Country: 
+ -- Key: Siliguri Country: 
+ -- Key: Silay City Country: 
+ -- Key: Silang, Cavite Country: 
+ -- Key: Silchar Country: 
+ -- Key: Simferopol Country: 
+ -- Key: Sioux Falls, South Dakota Country: 
+ -- Key: Singapore Country: 
+ -- Key: Sincelejo Country: 
+ -- Key: Sinuiji Country: 
+ -- Key: Siping Country: 
+ -- Key: Siverek Country: 
+ -- Key: Sivakasi Country: 
+ -- Key: Sitapur Country: 
+ -- Key: Sirsa Country: 
+ -- Key: Sittwe Country: 
+ -- Key: Sivas Country: 
+ -- Key: So Bernardo do Campo Country: 
+ -- Key: Slough Country: 
+ -- Key: Skopje Country: 
+ -- Key: Skikda Country: 
+ -- Key: Sliven Country: 
+ -- Key: Smederevo Country: 
+ -- Key: Sloviansk Country: 
+ -- Key: Smolensk Country: 
+ -- Key: So Carlos Country: 
+ -- Key: So Caetano do Sul Country: 
+ -- Key: So Gonalo Country: 
+ -- Key: Sorsogon City Country: 
+ -- Key: Sofia Country: 
+ -- Key: So Lus Country: 
+ -- Key: So Jos do Rio Preto Country: 
+ -- Key: So Jos de Ribamar Country: 
+ -- Key: So Jos Country: 
+ -- Key: So Jos dos Pinhais Country: 
+ -- Key: So Jos dos Campos Country: 
+ -- Key: So Leopoldo Country: 
+ -- Key: Soacha Country: 
+ -- Key: So Vicente Country: 
+ -- Key: So Paulo Country: 
+ -- Key: Sochi Country: 
+ -- Key: Sobral Country: 
+ -- Key: Solikamsk Country: 
+ -- Key: Solapur Country: 
+ -- Key: Soka Country: 
+ -- Key: Sogamoso Country: 
+ -- Key: Solihull Country: 
+ -- Key: Soledad Country: 
+ -- Key: Songyuan Country: 
+ -- Key: Songkhla Country: 
+ -- Key: Solingen Country: 
+ -- Key: Sorocaba Country: 
+ -- Key: Sonipat Country: 
+ -- Key: Southend on Sea Country: 
+ -- Key: South Bend, Indiana Country: 
+ -- Key: Souk Ahras Country: 
+ -- Key: Sosnowiec Country: 
+ -- Key: Southampton Country: 
+ -- Key: South Dum Dum Country: 
+ -- Key: Split Country: 
+ -- Key: Soyapango Country: 
+ -- Key: Soweto Country: 
+ -- Key: Springfield, Illinois Country: 
+ -- Key: Spokane, Washington Country: 
+ -- Key: Urawa Country: 
+ -- Key: Tengzhou Country: 
+ -- Key: Tabriz Country: 
+ -- Key: Sullana Country: 
+ -- Key: Subotica Country: 
+ -- Key: Stara Zagora Country: 
+ -- Key: St Paul, Minnesota Country: 
+ -- Key: Srinagar Country: 
+ -- Key: Springs Country: 
+ -- Key: Springfield, Missouri Country: 
+ -- Key: St Louis, Missouri Country: 
+ -- Key: St Helens Country: 
+ -- Key: St. John's Country: 
+ -- Key: St. Catharines Country: 
+ -- Key: St Petersburg, Florida Country: 
+ -- Key: Stamford, Connecticut Country: 
+ -- Key: Stakhanov Country: 
+ -- Key: Stockholm Country: 
+ -- Key: Stavropol Country: 
+ -- Key: Stavanger Country: 
+ -- Key: Starsy Oskol Country: 
+ -- Key: Sterlitamak Country: 
+ -- Key: Sterling Heights, Michigan Country: 
+ -- Key: Stoke-on-Trent Country: 
+ -- Key: Stockton, California Country: 
+ -- Key: Stockport Country: 
+ -- Key: Stuttgart Country: 
+ -- Key: Strasbourg Country: 
+ -- Key: Suining Country: 
+ -- Key: Suez Country: 
+ -- Key: Sucre Country: 
+ -- Key: Suceava Country: 
+ -- Key: Suihua Country: 
+ -- Key: Suhaj Country: 
+ -- Key: Sukabumi Country: 
+ -- Key: Suizhou Country: 
+ -- Key: Suita Country: 
+ -- Key: Sulamaniya Country: 
+ -- Key: Sukkur Country: 
+ -- Key: Suzhou, Jiangsu Country: 
+ -- Key: Supsk Country: 
+ -- Key: Suncheon, South Korea Country: 
+ -- Key: Sumar Country: 
+ -- Key: Sultanbeyli Country: 
+ -- Key: Sultan Kudarat, Maguindanao Country: 
+ -- Key: Sumy Country: 
+ -- Key: Sumgait Country: 
+ -- Key: Sungai Petani Country: 
+ -- Key: Sundsvall Country: 
+ -- Key: Sunderland Country: 
+ -- Key: Sunnyvale, California Country: 
+ -- Key: Sunshine Coast Country: 
+ -- Key: Surigao City Country: 
+ -- Key: Surakarta Country: 
+ -- Key: Surabaya Country: 
+ -- Key: Suqian Country: 
+ -- Key: Surat Thani Country: 
+ -- Key: Surat Country: 
+ -- Key: Surgut Country: 
+ -- Key: Suva, Fiji Country: 
+ -- Key: Sutton Coldfield Country: 
+ -- Key: Surrey Country: 
+ -- Key: Suzano Country: 
+ -- Key: Suwon,Puwan Country: 
+ -- Key: Suzhou, Anhui Country: 
+ -- Key: Syzran Country: 
+ -- Key: Sydney Country: 
+ -- Key: Swansea Country: 
+ -- Key: Suzuka Country: 
+ -- Key: Swindon Country: 
+ -- Key: Syracuse Country: 
+ -- Key: Syktyvkar Country: 
+ -- Key: Syracuse, New York Country: 
+ -- Key: Szkesfehrvr Country: 
+ -- Key: Szeged Country: 
+ -- Key: Szczecin Country: 
+ -- Key: Taboo da Serra Country: 
+ -- Key: Tabaco City Country: 
+ -- Key: Tandoadam Country: 
+ -- Key: Talara Country: 
+ -- Key: Taian Country: 
+ -- Key: Taebaek Country: 
+ -- Key: Tacloban City Country: 
+ -- Key: Tachikawa Country: 
+ -- Key: Tacheng Country: 
+ -- Key: Tacoma, Washington Country: 
+ -- Key: Tacna Country: 
+ -- Key: Taganrog Country: 
+ -- Key: Taejon,Daejeon Country: 
+ -- Key: Taegu,Daegu Country: 
+ -- Key: Tagum City Country: 
+ -- Key: Taguig City Country: 
+ -- Key: Taizhou, Jiangsu Country: 
+ -- Key: Taipei Country: 
+ -- Key: Taif Country: 
+ -- Key: Taichung Country: 
+ -- Key: Tainan City Country: 
+ -- Key: Taiyuan Country: 
+ -- Key: Taiping Country: 
+ -- Key: Taiz Country: 
+ -- Key: Takaoka Country: 
+ -- Key: Tajimi Country: 
+ -- Key: Taizhou, Zhejiang Country: 
+ -- Key: Takamatsu Country: 
+ -- Key: Takasaki Country: 
+ -- Key: Takarazuka Country: 
+ -- Key: Takatsuki Country: 
+ -- Key: Tama Country: 
+ -- Key: Talisay City, Cebu Country: 
+ -- Key: Talca Country: 
+ -- Key: Talavera, Nueva Ecija Country: 
+ -- Key: Talcahuano Country: 
+ -- Key: Tallinn Country: 
+ -- Key: Tallahassee, Florida Country: 
+ -- Key: Taloqan Country: 
+ -- Key: Tampere Country: 
+ -- Key: Tambov Country: 
+ -- Key: Tamale Country: 
+ -- Key: Tampa, Florida Country: 
+ -- Key: Tanauan City Country: 
+ -- Key: Tampico Country: 
+ -- Key: Tandil Country: 
+ -- Key: Tegucigalpa Country: 
+ -- Key: Tarnw Country: 
+ -- Key: Taonan Country: 
+ -- Key: Tangshan Country: 
+ -- Key: Tangail Country: 
+ -- Key: Tanga Country: 
+ -- Key: Tangier Country: 
+ -- Key: Tanta Country: 
+ -- Key: Tanjung Pinang Country: 
+ -- Key: Tanza, Cavite Country: 
+ -- Key: Taraz Country: 
+ -- Key: Taranto Country: 
+ -- Key: Tapachula Country: 
+ -- Key: Tarapoto Country: 
+ -- Key: Tarlac City Country: 
+ -- Key: Tarija Country: 
+ -- Key: Taunggyi Country: 
+ -- Key: Tartu Country: 
+ -- Key: Tarsus Country: 
+ -- Key: Tarragona Country: 
+ -- Key: Taubat Country: 
+ -- Key: Tashkent Country: 
+ -- Key: Tbilisi Country: 
+ -- Key: Taytay, Rizal Country: 
+ -- Key: Tauranga Country: 
+ -- Key: Tefilo Otoni Country: 
+ -- Key: Tebessa Country: 
+ -- Key: Tegal Country: 
+ -- Key: Telford Country: 
+ -- Key: Teixeira de Freitas Country: 
+ -- Key: Tehuacn Country: 
+ -- Key: Tehran Country: 
+ -- Key: Tel Aviv Country: 
+ -- Key: Tekirda Country: 
+ -- Key: Tempe, Arizona Country: 
+ -- Key: Temirtau Country: 
+ -- Key: Tembisa Country: 
+ -- Key: Tenali Country: 
+ -- Key: Temuco Country: 
+ -- Key: Touggourt Country: 
+ -- Key: Titagarh Country: 
+ -- Key: Tieli Country: 
+ -- Key: The Hague Country: 
+ -- Key: Ternopil Country: 
+ -- Key: Terespolis Country: 
+ -- Key: Teresina Country: 
+ -- Key: Tepic Country: 
+ -- Key: Terni Country: 
+ -- Key: Termez Country: 
+ -- Key: Thane Country: 
+ -- Key: Thai Nguyen Country: 
+ -- Key: Terrassa Country: 
+ -- Key: Thalassery Country: 
+ -- Key: Thanjavur Country: 
+ -- Key: Thrissur Country: 
+ -- Key: This Country: 
+ -- Key: Thimphu Country: 
+ -- Key: Thessaloniki Country: 
+ -- Key: Thiruvananthapuram Country: 
+ -- Key: Thousand Oaks, California Country: 
+ -- Key: Tianshui Country: 
+ -- Key: Tianjin Country: 
+ -- Key: Thunder Bay Country: 
+ -- Key: Tianmen Country: 
+ -- Key: Tiaret Country: 
+ -- Key: Tirana Country: 
+ -- Key: Timioara Country: 
+ -- Key: Tijuana Country: 
+ -- Key: Tieling Country: 
+ -- Key: Tilburg Country: 
+ -- Key: Timon Country: 
+ -- Key: Tiruppur Country: 
+ -- Key: Tirunelveli Country: 
+ -- Key: Tiruchchirappalli Country: 
+ -- Key: Tirupati Country: 
+ -- Key: Tiruvannamalai Country: 
+ -- Key: Tongjiang Country: 
+ -- Key: Tokyo Country: 
+ -- Key: Tobolsk Country: 
+ -- Key: Tlaxcala Country: 
+ -- Key: Tlalpan Country: 
+ -- Key: Tlalnepantla Country: 
+ -- Key: Tlaquepaque Country: 
+ -- Key: Tlemoen Country: 
+ -- Key: Tokushima Country: 
+ -- Key: Tokat Country: 
+ -- Key: Toda Country: 
+ -- Key: Tokorozawa Country: 
+ -- Key: Tokuyama Country: 
+ -- Key: Tomakomai Country: 
+ -- Key: Toluca Country: 
+ -- Key: Toledo, Ohio Country: 
+ -- Key: Toledo City, Cebu Country: 
+ -- Key: Toledo, Paran Country: 
+ -- Key: Tolyatti Country: 
+ -- Key: Tonghua Country: 
+ -- Key: Tondabayashi Country: 
+ -- Key: Tomsk Country: 
+ -- Key: Tongchuan Country: 
+ -- Key: Tongi Country: 
+ -- Key: Topeka, Kansas Country: 
+ -- Key: Tonk Country: 
+ -- Key: Tongling Country: 
+ -- Key: Tongliao Country: 
+ -- Key: Tongren Country: 
+ -- Key: Toowoomba Country: 
+ -- Key: Toru Country: 
+ -- Key: Torrance, California Country: 
+ -- Key: Toronto Country: 
+ -- Key: Torren Country: 
+ -- Key: Tottori Country: 
+ -- Key: Tuticorin Country: 
+ -- Key: Tuguegarao City Country: 
+ -- Key: Trgu-Mure Country: 
+ -- Key: Toyohashi Country: 
+ -- Key: Townsville Country: 
+ -- Key: Toulouse Country: 
+ -- Key: Toulon Country: 
+ -- Key: Tours Country: 
+ -- Key: Toyama Country: 
+ -- Key: Toyonaka Country: 
+ -- Key: Toyokawa Country: 
+ -- Key: Trabzon Country: 
+ -- Key: Toyota Country: 
+ -- Key: Trento Country: 
+ -- Key: Trujillo Country: 
+ -- Key: Tripoli, Libya Country: 
+ -- Key: Tripoli, Lebanon Country: 
+ -- Key: Trieste Country: 
+ -- Key: Trondheim Country: 
+ -- Key: Trois-Rivires Country: 
+ -- Key: Tsukuba Country: 
+ -- Key: Tsuchiura Country: 
+ -- Key: Tsu Country: 
+ -- Key: Ttouan Country: 
+ -- Key: Tsuruoka Country: 
+ -- Key: Tucson, Arizona Country: 
+ -- Key: Tunis Country: 
+ -- Key: Tulufan Country: 
+ -- Key: Tulsa, Oklahoma Country: 
+ -- Key: Tula Country: 
+ -- Key: Tulua Country: 
+ -- Key: Tumen Country: 
+ -- Key: Tumbes Country: 
+ -- Key: Tumkur Country: 
+ -- Key: Turin Country: 
+ -- Key: Turgutlu Country: 
+ -- Key: Tunja Country: 
+ -- Key: Turhal Country: 
+ -- Key: Turku Country: 
+ -- Key: Turkmenabat Country: 
+ -- Key: Turmero Country: 
+ -- Key: Ujjain Country: 
+ -- Key: Uberlndia Country: 
+ -- Key: Tychy Country: 
+ -- Key: Tuzla Country: 
+ -- Key: Tuxtla Gutirrez Country: 
+ -- Key: Tver Country: 
+ -- Key: Ube Country: 
+ -- Key: Tyumen Country: 
+ -- Key: Uak Country: 
+ -- Key: Uberaba Country: 
+ -- Key: Udupi Country: 
+ -- Key: Udaipur Country: 
+ -- Key: Ubon Ratchathani Country: 
+ -- Key: Udon Thani Country: 
+ -- Key: Ufa Country: 
+ -- Key: Ueda Country: 
+ -- Key: Uji Country: 
+ -- Key: Ulsan Country: 
+ -- Key: Ulaanbaatar Country: 
+ -- Key: Ukhta Country: 
+ -- Key: Ujung Pandang Country: 
+ -- Key: Ulaan Chab Country: 
+ -- Key: Ulhasnagar Country: 
+ -- Key: Ulan-Ude Country: 
+ -- Key: Ulm Country: 
+ -- Key: Unnao Country: 
+ -- Key: Ume Country: 
+ -- Key: Ulyanovsk Country: 
+ -- Key: Umlazi Country: 
+ -- Key: Uralsk Country: 
+ -- Key: Uppsala Country: 
+ -- Key: Urasoe Country: 
+ -- Key: Xinyi Country: 
+ -- Key: Voronezh Country: 
+ -- Key: Vereeniging Country: 
+ -- Key: Vancouver, Washington Country: 
+ -- Key: Valdivia Country: 
+ -- Key: Ust-Ilimsk Country: 
+ -- Key: Uruapan Country: 
+ -- Key: Urdaneta City Country: 
+ -- Key: Urayasu Country: 
+ -- Key: Urgentch Country: 
+ -- Key: Usolye-Sibirskoye Country: 
+ -- Key: Uruguaiana Country: 
+ -- Key: Ussuriysk Country: 
+ -- Key: Uzhhorod Country: 
+ -- Key: Utrecht Country: 
+ -- Key: Ust-Kamenogorsk Country: 
+ -- Key: Utsunomiya Country: 
+ -- Key: Vadodara Country: 
+ -- Key: Vadakara Country: 
+ -- Key: Vaduz Country: 
+ -- Key: Valledupar Country: 
+ -- Key: Valenciennes Country: 
+ -- Key: Valencia City, Bukidnon Country: 
+ -- Key: Valencia Country: 
+ -- Key: Valencia, Venezuela Country: 
+ -- Key: Valladolid Country: 
+ -- Key: Valera Country: 
+ -- Key: Valle de Chalco Country: 
+ -- Key: Valsad Country: 
+ -- Key: Valparai Country: 
+ -- Key: Vallejo, California Country: 
+ -- Key: Valparaso Country: 
+ -- Key: Vanadzor Country: 
+ -- Key: Van Country: 
+ -- Key: Vancouver Country: 
+ -- Key: Vaughan Country: 
+ -- Key: Varginha Country: 
+ -- Key: Varamin Country: 
+ -- Key: Vantaa Country: 
+ -- Key: Varanasi Country: 
+ -- Key: Varzea Grande Country: 
+ -- Key: Varna Country: 
+ -- Key: Vellore Country: 
+ -- Key: Veliky Novgorod Country: 
+ -- Key: Velikiye Luki Country: 
+ -- Key: Veracruz Country: 
+ -- Key: Venice Country: 
+ -- Key: Vitria da Conquista Country: 
+ -- Key: Villa Nicols Romero Country: 
+ -- Key: Vienna Country: 
+ -- Key: Vicente Lpez Country: 
+ -- Key: Via del Mar Country: 
+ -- Key: Verona Country: 
+ -- Key: Viamo Country: 
+ -- Key: Victoria Country: 
+ -- Key: Vicenza Country: 
+ -- Key: Vijayawada Country: 
+ -- Key: Vigo Country: 
+ -- Key: Vientiane Country: 
+ -- Key: Vila Velha Country: 
+ -- Key: Vila Nova de Gaia Country: 
+ -- Key: Vinnytsia Country: 
+ -- Key: Villeurbanne Country: 
+ -- Key: Villavicencio Country: 
+ -- Key: Villahermosa Country: 
+ -- Key: Vinh Country: 
+ -- Key: Vilnius Country: 
+ -- Key: Vista Country: 
+ -- Key: Visakhapatnam Country: 
+ -- Key: Viranehir Country: 
+ -- Key: Vitoria-Gasteiz Country: 
+ -- Key: Vitebsk Country: 
+ -- Key: Vitria Country: 
+ -- Key: Volgodonsk Country: 
+ -- Key: Vladikavkaz Country: 
+ -- Key: Vizianagarm Country: 
+ -- Key: Vitria de Santo Anto Country: 
+ -- Key: Vladivostok Country: 
+ -- Key: Vladimir Country: 
+ -- Key: Volos Country: 
+ -- Key: Vologda Country: 
+ -- Key: Volgograd Country: 
+ -- Key: Volzhsky Country: 
+ -- Key: Volta Redonda Country: 
+ -- Key: Wolverhampton Country: 
+ -- Key: West Covina, California Country: 
+ -- Key: Warangal Country: 
+ -- Key: Waco, Texas Country: 
+ -- Key: Vsters Country: 
+ -- Key: Votkinsk Country: 
+ -- Key: Vungtau Country: 
+ -- Key: Wabrzych Country: 
+ -- Key: Wah Cantonment Country: 
+ -- Key: Wadhwan Country: 
+ -- Key: Wad Madani Country: 
+ -- Key: Wafangdian Country: 
+ -- Key: Walsall Country: 
+ -- Key: Wakayama Country: 
+ -- Key: Wanxian Country: 
+ -- Key: Weifang Country: 
+ -- Key: Warsaw Country: 
+ -- Key: Warren, Michigan Country: 
+ -- Key: Wardha Country: 
+ -- Key: Warrington Country: 
+ -- Key: Waterbury, Connecticut Country: 
+ -- Key: Washington, D.C. Country: 
+ -- Key: Watford Country: 
+ -- Key: Wellington Country: 
+ -- Key: Weihui Country: 
+ -- Key: Weihai Country: 
+ -- Key: Weinan Country: 
+ -- Key: Wenzhou Country: 
+ -- Key: Wendeng Country: 
+ -- Key: West Bromwich Country: 
+ -- Key: Windhoek Country: 
+ -- Key: Wichita Falls, Texas Country: 
+ -- Key: Westminster, Colorado Country: 
+ -- Key: West Valley City, Utah Country: 
+ -- Key: Whitby Country: 
+ -- Key: Wiesbaden Country: 
+ -- Key: Wichita, Kansas Country: 
+ -- Key: Willemstad Country: 
+ -- Key: Winterthur Country: 
+ -- Key: Winnipeg Country: 
+ -- Key: Windsor Country: 
+ -- Key: Winston-Salem, North Carolina Country: 
+ -- Key: Wocawek Country: 
+ -- Key: Witten Country: 
+ -- Key: Wolfsburg Country: 
+ -- Key: Xianning Country: 
+ -- Key: Wuhan Country: 
+ -- Key: Wrocaw Country: 
+ -- Key: Wonsan Country: 
+ -- Key: Wonju Country: 
+ -- Key: Worcester, Massachusetts Country: 
+ -- Key: Wugang Country: 
+ -- Key: Wu'an Country: 
+ -- Key: Wrzburg Country: 
+ -- Key: Wuhai Country: 
+ -- Key: Wuyishan Country: 
+ -- Key: Wuppertal Country: 
+ -- Key: Wulanhaote Country: 
+ -- Key: Wuhu Country: 
+ -- Key: Wulumuqi Country: 
+ -- Key: Wuxi Country: 
+ -- Key: Wuwei Country: 
+ -- Key: Wuxue Country: 
+ -- Key: Xiamen Country: 
+ -- Key: Wuzhou Country: 
+ -- Key: Wuzhong Country: 
+ -- Key: Xalapa Country: 
+ -- Key: Xiangfan Country: 
+ -- Key: Xian Country: 
+ -- Key: Xiangtan Country: 
+ -- Key: Xinghua Country: 
+ -- Key: Xiaoshan Country: 
+ -- Key: Xianyang Country: 
+ -- Key: Xiantao Country: 
+ -- Key: Xiaogan Country: 
+ -- Key: Xilinhaote Country: 
+ -- Key: Xichang Country: 
+ -- Key: Xingcheng Country: 
+ -- Key: Xinji Country: 
+ -- Key: Xingyi Country: 
+ -- Key: Xingtai Country: 
+ -- Key: Xining Country: 
+ -- Key: Xinxiang Country: 
+ -- Key: Xintai Country: 
+ -- Key: Xinyang Country: 
+ -- Key: Zelenograd Country: 
+ -- Key: Yixing Country: 
+ -- Key: Yelets Country: 
+ -- Key: Yamunanagar Country: 
+ -- Key: Yahn Country: 
+ -- Key: Xuancheng Country: 
+ -- Key: Xinzhou Country: 
+ -- Key: Xinyu Country: 
+ -- Key: Xochimilco Country: 
+ -- Key: Xuzhou Country: 
+ -- Key: Xuchang Country: 
+ -- Key: Yachiyo Country: 
+ -- Key: Yamagata Country: 
+ -- Key: Yakeshi Country: 
+ -- Key: Yaizu Country: 
+ -- Key: Yakutsk Country: 
+ -- Key: Yamato, Kanagawa Country: 
+ -- Key: Yamaguchi Country: 
+ -- Key: Yamoussoukro Country: 
+ -- Key: Yantai Country: 
+ -- Key: Yangon(Rangoon) Country: 
+ -- Key: Yancheng Country: 
+ -- Key: Yan'an Country: 
+ -- Key: Yangjiang Country: 
+ -- Key: Yangzhou Country: 
+ -- Key: Yangquan Country: 
+ -- Key: Yanji Country: 
+ -- Key: Yatsushiro Country: 
+ -- Key: Yaound Country: 
+ -- Key: Yao Country: 
+ -- Key: Yaroslavl Country: 
+ -- Key: Yazd Country: 
+ -- Key: Yavatmal Country: 
+ -- Key: Yekaterinburg Country: 
+ -- Key: Yidu Country: 
+ -- Key: Yibin Country: 
+ -- Key: Yenakiieve Country: 
+ -- Key: Yemen Country: 
+ -- Key: Yerevan Country: 
+ -- Key: Yichun, Heilongjiang Country: 
+ -- Key: Yichang Country: 
+ -- Key: Yichun, Jiangxi Country: 
+ -- Key: Yingkou Country: 
+ -- Key: Yinchuan Country: 
+ -- Key: Yima Country: 
+ -- Key: Yingcheng Country: 
+ -- Key: Yining Country: 
+ -- Key: Yingtan Country: 
+ -- Key: Yiwu Country: 
+ -- Key: Zahedan Country: 
+ -- Key: Yueyang Country: 
+ -- Key: Yongan Country: 
+ -- Key: Yokkaichi Country: 
+ -- Key: Yizheng Country: 
+ -- Key: Yiyang Country: 
+ -- Key: Yogyakarta Country: 
+ -- Key: Yokosuka Country: 
+ -- Key: Yokohama Country: 
+ -- Key: Yonago Country: 
+ -- Key: Yorkshire Country: 
+ -- Key: Yonkers, New York Country: 
+ -- Key: Yongzhou Country: 
+ -- Key: York Country: 
+ -- Key: Yosu Country: 
+ -- Key: Yoshkar-Ola Country: 
+ -- Key: Yuanjiang Country: 
+ -- Key: Yuzhno-Sakhalinsk Country: 
+ -- Key: Yumen Country: 
+ -- Key: Yulin, Shaanxi Country: 
+ -- Key: Yulin, Guangxi Country: 
+ -- Key: Yuma, Arizona Country: 
+ -- Key: Yuxi Country: 
+ -- Key: Yuncheng, Shanxi Country: 
+ -- Key: Yuyao Country: 
+ -- Key: Zabrze Country: 
+ -- Key: Zaanstad Country: 
+ -- Key: Yuzhou Country: 
+ -- Key: Zabol Country: 
+ -- Key: Zagazig Country: 
+ -- Key: Zacatecas Country: 
+ -- Key: Zagreb Country: 
+ -- Key: Zapopan Country: 
+ -- Key: Zanjan Country: 
+ -- Key: Zamboanga City Country: 
+ -- Key: Zama Country: 
+ -- Key: Zamora de Hidalgo Country: 
+ -- Key: Zaoyang Country: 
+ -- Key: Zanzibar Country: 
+ -- Key: Zaozhuang Country: 
+ -- Key: Zaria Country: 
+ -- Key: Zaragoza Country: 
+ -- Key: Zaporizhia Country: 
+ -- Key: Zelenodolsk Country: 
+ -- Key: Zarqa Country: 
+ -- Key: gaki Country: 
+ -- Key: Zhuozhou Country: 
+ -- Key: Zhaotong Country: 
+ -- Key: Zhangshu Country: 
+ -- Key: Zhangjiagang Country: 
+ -- Key: Zhalantun Country: 
+ -- Key: Zenica Country: 
+ -- Key: Zhangjiakou Country: 
+ -- Key: Zhangjiajie Country: 
+ -- Key: Zhanjiang Country: 
+ -- Key: Zhangzhou Country: 
+ -- Key: Zhangye Country: 
+ -- Key: Zhaoqing Country: 
+ -- Key: Zhaodong Country: 
+ -- Key: Zhoushan Country: 
+ -- Key: Zhenjiang Country: 
+ -- Key: Zhengzhou Country: 
+ -- Key: Zheleznodorozhny Country: 
+ -- Key: Zhoukou Country: 
+ -- Key: Zhongshan Country: 
+ -- Key: Zhuji Country: 
+ -- Key: Zhuhai Country: 
+ -- Key: Zhucheng Country: 
+ -- Key: Zhumadian Country: 
+ -- Key: Zhukovsky Country: 
+ -- Key: Zrate Country: 
+ -- Key: Ziguinchor Country: 
+ -- Key: Zibo Country: 
+ -- Key: Zhytomyr Country: 
+ -- Key: Zhuzhou Country: 
+ -- Key: Zigong Country: 
+ -- Key: Zielona Gra Country: 
+ -- Key: Zlatoust Country: 
+ -- Key: Zixing Country: 
+ -- Key: Zinder Country: 
+ -- Key: Zoetermeer Country: 
+ -- Key: Zunyi Country: 
+ -- Key: Zrenjanin Country: 
+ -- Key: Zrich Country: 
+ -- Key: Zwickau Country: 
+ -- Key: Zuwara Country: 
+ -- Key: anlurfa Country: 
+ -- Key: Zwolle Country: 
+ -- Key: rhus Country: Denmark -- Key: orlu Country: Turkey -- Key: kasuga Country: Japan -- Key: ita Country: 
+ -- Key: iauliai Country: 
+ -- Key: muta Country: 
+ -- Key: orum Country: Turkey -- Key: rebro Country: 
+ -- Key: stanbul Country: Turkey -- Key: skenderun Country: Turkey -- Key: zmir Country: Turkey -- Key: zmit Country: Turkey -- 

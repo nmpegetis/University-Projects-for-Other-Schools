@@ -1,0 +1,8 @@
+elapsedTime after 512 cities in Input=73.474 msec
+elapsedTime after 1024 cities in Input=165.417 msec
+elapsedTime after 2048 cities in Input=381.089 msec
+total elapsedTime in Input=658.539 msec
+mean elapsedTime in Search=0.004 msec
+elapsedTime in InOrder=2.004 msec
+elapsedTime in PreOrder=1.954 msec
+elapsedTime in PostOrder=1.85 msec
