@@ -1,6 +1,6 @@
 /*************************************************
 Arxeio ylopoihshs	: main.c
-Syggrafeas			: giota kwnstantinou
+Syggrafeas			: Nikolas Begetis
 Skopos				: Paradeigma gia Dokimh ATD List
 **************************************************/
 

@@ -1,6 +1,6 @@
 /**************************************************************************
 Arxeio Ylopoihshs	: LISTTA.c -to sigkekrimeno apotelei to arxeio protipo 
-Syggrafeas			: giota kwnstantinou
+Syggrafeas			: Nikolas Begetis
 Skopos				: Ylopoihsh me deiktes, ATD Dipla Syndedemenh Lista 
 Ana8ewrhsh			: D.Mhlios
 ***************************************************************************/

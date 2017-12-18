@@ -1,6 +1,6 @@
 /***************************************************************************************
 Arxeio Epikefalidas	: ListE.h -to sigkekrimeno apotelei to arxeio protipo 
-Syggrafeas			: Giota Kwnstantinou
+Syggrafeas			: Nikolas Begetis
 Ana8ewrhsh			: D.Mhlios
                   Ena arxeio diepafhs gia oles tis ylopoihseis listas
 ****************************************************************************************/

@@ -1,6 +1,6 @@
 /*****************************************************
 Arxeio epikefalidas	: TStoixeioyListasE.h
-Syggrafeas			: Giota Konstantinou
+Syggrafeas			: Nikolas Begetis
 Skopos				: Ylopoihsh Typou Stoixeioy listas gia TSstoixeioyListas struct
 *****************************************************/
 

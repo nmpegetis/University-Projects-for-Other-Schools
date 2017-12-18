@@ -1,6 +1,6 @@
 /*****************************************************
 Arxeio ylopoihshs	: TStoixeioyListasE.c
-Syggrafeas			: Giota Kwnstantinou
+Syggrafeas			: Nikolas Begetis
 Skopos				: Ylopoihsh Typou Stoixeioy listas gia TSstoixeioyListas struct
 *****************************************************/
 
